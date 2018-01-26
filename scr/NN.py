@@ -18,11 +18,14 @@ class SingleLayerNN():
 
     def fit(self, X, Y):  # X = (len(X[0]) + 1, n)
         X = np.vstack([X, [1] * len(X[0])])
+        WHistory = [];
         self.W = np.reshape(np.random.normal(0, 1, len(X)), (1, len(X)))
         for step in range(self.nb_eboch):
             WX = np.dot(self.W, X) # Prediction : (1, len(X[0]) + 1) * (len(X[0]) + 1, n) =(1, n)
             diff = self.lr * np.dot(X, (Y - WX).T).T
             self.W = self.W + diff
+            WHistory.append(self.W)
+        return WHistory
 
     def predict(self, X):
         X = np.vstack([X, [1] * len(X[0])])
@@ -46,11 +49,14 @@ class Perceptron():
 
     def fit(self, X, Y):  # X = (len(X[0]) + 1, n)
         X = np.vstack([X, [1] * len(X[0])])
+        WHistory = [];
         self.W = np.reshape(np.random.normal(0, 1, len(X)), (1, len(X)))
         for step in range(self.nb_eboch):
             WX = self.posneg(np.dot(self.W, X)) # Prediction : (1, len(X[0]) + 1) * (len(X[0]) + 1, n) =(1, n)
             diff = self.lr * np.dot(X, (Y - WX).T).T
             self.W = self.W + diff
+            WHistory.append(self.W)
+        return WHistory
 
     def predict(self, X):
         X = np.vstack([X, [1] * len(X[0])])
