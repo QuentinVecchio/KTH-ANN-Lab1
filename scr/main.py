@@ -5,11 +5,11 @@ import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 
-
+N = 1000
 def generateDataSet():
-    X = list(np.random.multivariate_normal([-1.5, -1.5], [[1, 0], [0, 1]], 100))
-    X += list(np.random.multivariate_normal([1.5, 1.5], [[1, 0], [0, 1]], 100))
-    Y = [1] * 100 + [-1] * 100
+    X = list(np.random.multivariate_normal([-1, -1], [[1, 0], [0, 1]], N))
+    X += list(np.random.multivariate_normal([1, 1], [[1, 0], [0, 1]], N))
+    Y = [1] * N + [-1] * N
     p = np.random.permutation(len(X))
     return (np.array(X)[p]).T, np.mat(np.array(Y)[p])
 
@@ -29,12 +29,13 @@ def showData2D(X, Y):
 def test():
     # nn = NN1()
     X, Y = generateDataSet()
-    modelSingleLayer = SingleLayerNN()
+    modelSingleLayer = Perceptron()
     WHistory = modelSingleLayer.fit(X, Y)
-    X1, Y2 = generateDataSet()
-    print(Y2)
-    print(modelSingleLayer.predict(X1) - Y2)
-    graph.plotDecisionBoundary(X,Y,WHistory)
+    print(WHistory)
+    X1, Y1 = generateDataSet()
+    print(Y1)
+    print(modelSingleLayer.predict(X1) - Y1)
+    graph.plotDecisionBoundary(X1,Y1,WHistory)
 
 
 if __name__ == '__main__':

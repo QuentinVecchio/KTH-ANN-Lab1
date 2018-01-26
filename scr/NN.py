@@ -2,7 +2,7 @@ import numpy as np
 
 
 class SingleLayerNN():
-    def __init__(self, lr=0.1, nb_eboch=20):
+    def __init__(self, lr=0.001, nb_eboch=400):
         self.lr = lr
         self.nb_eboch = nb_eboch
         self.W = []
@@ -18,11 +18,12 @@ class SingleLayerNN():
 
     def fit(self, X, Y):  # X = (len(X[0]) + 1, n)
         X = np.vstack([X, [1] * len(X[0])])
-        WHistory = [];
+        WHistory = []
         self.W = np.reshape(np.random.normal(0, 1, len(X)), (1, len(X)))
         for step in range(self.nb_eboch):
             WX = np.dot(self.W, X) # Prediction : (1, len(X[0]) + 1) * (len(X[0]) + 1, n) =(1, n)
-            diff = self.lr * np.dot(X, (Y - WX).T).T
+            aux = WX - Y
+            diff = - self.lr * np.dot(aux, X.T)
             self.W = self.W + diff
             WHistory.append(self.W)
         return WHistory
@@ -33,7 +34,7 @@ class SingleLayerNN():
 
 
 class Perceptron():
-    def __init__(self, lr=0.1, nb_eboch=20):
+    def __init__(self, lr=0.001, nb_eboch=400):
         self.lr = lr
         self.nb_eboch = nb_eboch
         self.W = []
@@ -49,11 +50,13 @@ class Perceptron():
 
     def fit(self, X, Y):  # X = (len(X[0]) + 1, n)
         X = np.vstack([X, [1] * len(X[0])])
-        WHistory = [];
+        WHistory = []
         self.W = np.reshape(np.random.normal(0, 1, len(X)), (1, len(X)))
         for step in range(self.nb_eboch):
             WX = self.posneg(np.dot(self.W, X)) # Prediction : (1, len(X[0]) + 1) * (len(X[0]) + 1, n) =(1, n)
-            diff = self.lr * np.dot(X, (Y - WX).T).T
+            signe =  - (WX - Y) / 2
+
+            diff = self.lr * np.dot(X, signe.T).T
             self.W = self.W + diff
             WHistory.append(self.W)
         return WHistory
