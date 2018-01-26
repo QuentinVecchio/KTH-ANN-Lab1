@@ -1,5 +1,6 @@
 from NN import SingleLayerNN
 from NN import Perceptron
+from NN2 import SingleLayerNN2
 import graph
 import matplotlib
 import matplotlib.pyplot as plt
@@ -29,13 +30,13 @@ def showData2D(X, Y):
 def test():
     # nn = NN1()
     X, Y = generateDataSet()
-    modelSingleLayer = Perceptron()
-    WHistory = modelSingleLayer.fit(X, Y)
-    print(WHistory)
+    modelSingleLayer = SingleLayerNN2()
+    modelSingleLayer.fit(X, Y)
+
     X1, Y1 = generateDataSet()
-    print(Y1)
-    print(modelSingleLayer.predict(X1) - Y1)
-    graph.plotDecisionBoundary(X1,Y1,WHistory)
+    cumsum =  np.sum( abs(modelSingleLayer.predict(X1) - Y1)/ 2.0 )
+    print(cumsum / Y1.shape[1])
+
 
 
 if __name__ == '__main__':
