@@ -36,8 +36,6 @@ def test():
     X1, Y1 = generateDataSet()
     cumsum =  np.sum( abs(modelSingleLayer.predict(X1) - Y1)/ 2.0 )
     print(cumsum / Y1.shape[1])
-
-
-
+    
 if __name__ == '__main__':
     test()
