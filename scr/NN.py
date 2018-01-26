@@ -1,22 +1,66 @@
 import numpy as np
 
 
-class NN1():
-    def __init__(self, hidden_layers_size=0, lr=0.1, nb_eboch=20):
-        self.hidden_layers_size = hidden_layers_size
+class SingleLayerNN():
+    def __init__(self, lr=0.001, nb_eboch=400):
         self.lr = lr
         self.nb_eboch = nb_eboch
         self.W = []
 
+    def posneg(self, WX):
+        output = []
+        for x in WX.T:
+            if (x < 0):
+                output.append(-1)
+            else:
+                output.append(1)
+        return output
+
     def fit(self, X, Y):  # X = (len(X[0]) + 1, n)
-        W = np.reshape(np.random.normal(0, 1, len(X[0]) + 1), (1, len(X[0]) + 1)) # biais
+        X = np.vstack([X, [1] * len(X[0])])
+        WHistory = []
+        self.W = np.reshape(np.random.normal(0, 1, len(X)), (1, len(X)))
         for step in range(self.nb_eboch):
-            WX = np.multiply(W, X)  # Prediction : (1, len(X[0]) + 1) * (len(X[0]) + 1, n) =(1, n)
-            diff = np.multiply(WX - Y, X.T) * self.lr
-            W = W + diff
+            WX = np.dot(self.W, X) # Prediction : (1, len(X[0]) + 1) * (len(X[0]) + 1, n) =(1, n)
+            aux = WX - Y
+            diff = - self.lr * np.dot(aux, X.T)
+            self.W = self.W + diff
+            WHistory.append(self.W)
+        return WHistory
+
+    def predict(self, X):
+        X = np.vstack([X, [1] * len(X[0])])
+        return self.posneg(np.dot(self.W, X))
 
 
+class Perceptron():
+    def __init__(self, lr=0.001, nb_eboch=400):
+        self.lr = lr
+        self.nb_eboch = nb_eboch
+        self.W = []
 
+    def posneg(self, WX):
+        output = []
+        for x in WX.T:
+            if (x < 0):
+                output.append(-1)
+            else:
+                output.append(1)
+        return output
 
+    def fit(self, X, Y):  # X = (len(X[0]) + 1, n)
+        X = np.vstack([X, [1] * len(X[0])])
+        WHistory = []
+        self.W = np.reshape(np.random.normal(0, 1, len(X)), (1, len(X)))
+        for step in range(self.nb_eboch):
+            WX = self.posneg(np.dot(self.W, X)) # Prediction : (1, len(X[0]) + 1) * (len(X[0]) + 1, n) =(1, n)
+            signe =  - (WX - Y) / 2
 
+            diff = self.lr * np.dot(X, signe.T).T
+            self.W = self.W + diff
+            WHistory.append(self.W)
+        return WHistory
 
+    def predict(self, X):
+        X = np.vstack([X, [1] * len(X[0])])
+        return self.posneg(np.dot(self.W, X))
