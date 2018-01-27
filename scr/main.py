@@ -3,6 +3,7 @@ import graph
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
+import NN2
 
 N = 100
 
@@ -18,18 +19,21 @@ def generateDataSet():
 def test():
     X, T = generateDataSet()
 
-    singleLayerNN = NN.SingleLayerNN()
-    perceptron = NN.Perceptron()
+    #singleLayerNN = NN.SingleLayerNN()
+    #perceptron = NN.Perceptron()
+    singleLayerNN =NN2.SingleLayerNN2()
 
-    WHistory, eHistory = singleLayerNN.fit(X, T)
-    graph.plotDecisionBoundary(X, T, WHistory[-1])
+    #WHistory, eHistory = singleLayerNN.fit(X, T)
+    #graph.plotDecisionBoundary(X, T, WHistory[-1])
     #graph.plotDecisionBoundaryAnim(X, T, WHistory)
     #graph.plotError(eHistory)
 
-    WHistory, eHistory = perceptron.fit(X, T)
-    graph.plotDecisionBoundary(X, T, WHistory[-1])
+    #WHistory, eHistory = perceptron.fit(X, T)
+    #graph.plotDecisionBoundary(X, T, WHistory[-1])
     #graph.plotDecisionBoundaryAnim(X, T, WHistory)
     #graph.plotError(eHistory)
 
+    eHistory = singleLayerNN.fit(X, T)
+    graph.plotError(eHistory)
 if __name__ == '__main__':
     test()
