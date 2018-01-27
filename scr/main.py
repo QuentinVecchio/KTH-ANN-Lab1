@@ -22,12 +22,12 @@ def test():
     perceptron = NN.Perceptron()
 
     WHistory, eHistory = singleLayerNN.fit(X, T)
-    graph.plotDecisionBoundary(X, T, WHistory[20])
+    graph.plotDecisionBoundary(X, T, WHistory[-1])
     #graph.plotDecisionBoundaryAnim(X, T, WHistory)
     #graph.plotError(eHistory)
 
     WHistory, eHistory = perceptron.fit(X, T)
-    graph.plotDecisionBoundary(X, T, WHistory[20])
+    graph.plotDecisionBoundary(X, T, WHistory[-1])
     #graph.plotDecisionBoundaryAnim(X, T, WHistory)
     #graph.plotError(eHistory)
 
