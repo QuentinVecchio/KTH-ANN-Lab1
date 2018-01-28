@@ -45,8 +45,8 @@ def scenario3_2_1():
     p = np.random.permutation(len(X))
     X, T = (np.array(X)[p]).T, np.array(T)[p]
     multipleLayerNN = NN2.SingleLayerNN2(batch_size=-1)
-    eHistorySNN = multipleLayerNN.fit(X, T)
-    graph.plotNNInformations("Multiple Layer NN", X,T,[], eHistorySNN)
+    WHistoryMNN, eHistoryMNN = multipleLayerNN.fit(X, T)
+    graph.plotNNInformations("Multiple Layer NN", X, T, WHistoryMNN[-1], eHistoryMNN)
 
 def test():
     X, T = generateDataSet()

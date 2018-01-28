@@ -1,8 +1,9 @@
 import numpy as np
 import math
+import copy
 
 class SingleLayerNN2():
-    def __init__(self, lr=0.1, nb_eboch=50, hidden_layer_size=10, batch_size=-1):
+    def __init__(self, lr=0.001, nb_eboch=1000, hidden_layer_size=2, batch_size=200):
         self.batch_size = batch_size
         self.lr = lr
         self.nb_eboch = nb_eboch
@@ -29,7 +30,7 @@ class SingleLayerNN2():
 
     def fit(self, X, Y):  # X = (len(X[0]) + 1, n)
         X = np.vstack([X, [1] * len(X[0])])
-
+        WHistory = []
         eHistory = []
 
         self.W = np.reshape(np.random.normal(0, 1, self.hidden_layer_size * len(X)), (self.hidden_layer_size, len(X)))
@@ -60,8 +61,9 @@ class SingleLayerNN2():
                 deltaV = - self.lr * np.dot(deltaO, H.T)
                 self.V += deltaV
                 self.W += deltaW
+                WHistory.append(copy.copy(self.W))
                 eHistory.append(np.mean(abs(e/2)))
-        return eHistory
+        return WHistory, eHistory
 
     def predict(self, X):
         X = np.vstack([X, [1] * len(X[0])])

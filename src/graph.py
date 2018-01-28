@@ -8,18 +8,26 @@ def plotNNInformations(title, X, T, W, LearningCurve):
     X = X.T
     T = (T + 1) // 2
 
+    x = 1
+    y = 0
+    bias = 2
+
     fig = plt.figure(figsize=(8, 8))
     plt.subplot(2, 1, 1)
     colors = ['red', 'blue']
 
     plt.scatter(X[:, 0], X[:, 1], c=[colors[i] for i in T])
 
-    x = np.linspace(-5, 5, 50)
-    print(W)
+    #x = np.linspace(-5, 5, 50)
 
-    # y = - (W[0][2] + W[0][0] * x) / W[0][1]
-    # plt.title("Decision Boundary " + title)
-    # plt.plot(x, y)
+    ymin, ymax = plt.ylim()
+    plt.title("Decision Boundary " + title)
+    for w in W:
+        print(w)
+        a = -w[x] / w[y]
+        xx = np.linspace(ymin, ymax)
+        yy = a * xx - (w.item(bias)) / w[y]
+        plt.plot(yy, xx, 'black')
 
 
     plt.subplot(2, 1, 2)
