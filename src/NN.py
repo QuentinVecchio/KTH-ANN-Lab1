@@ -45,12 +45,12 @@ class SingleLayerNN():
                 diff = self.lr * np.dot(aux, batch.T)
                 self.W = self.W + diff
 
-                eHistory.append(np.mean(abs(e)))
+                eHistory.append(np.mean(abs(e/2)))
                 WHistory.append(self.W)
 
         WX = np.dot(self.W, X)
         e = T - self.TLU(WX)
-        eHistory.append(np.mean(abs(e)))
+        eHistory.append(np.mean(abs(e/2)))
         return WHistory, eHistory
 
     def predict(self, X):
@@ -102,7 +102,7 @@ class Perceptron():
                 diff = self.lr * np.dot(e, batch.T)
                 self.W = self.W + diff
 
-                eHistory.append(np.mean(abs(e)))
+                eHistory.append(np.mean(abs(e/2)))
                 WHistory.append(self.W)
         return WHistory, eHistory
 

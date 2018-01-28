@@ -2,7 +2,7 @@ import numpy as np
 import math
 
 class SingleLayerNN2():
-    def __init__(self, lr=0.1, nb_eboch=20, hidden_layer_size=10, batch_size=20):
+    def __init__(self, lr=0.1, nb_eboch=50, hidden_layer_size=10, batch_size=-1):
         self.batch_size = batch_size
         self.lr = lr
         self.nb_eboch = nb_eboch
@@ -60,7 +60,7 @@ class SingleLayerNN2():
                 deltaV = - self.lr * np.dot(deltaO, H.T)
                 self.V += deltaV
                 self.W += deltaW
-                eHistory.append(np.mean(abs(e)))
+                eHistory.append(np.mean(abs(e/2)))
         return eHistory
 
     def predict(self, X):

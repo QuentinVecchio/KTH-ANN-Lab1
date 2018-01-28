@@ -8,7 +8,7 @@ def plotNNInformations(title, X, T, W, LearningCurve):
     X = X.T
     T = (T + 1) // 2
 
-    fig = plt.figure(figsize=(10, 10))
+    fig = plt.figure(figsize=(8, 8))
     plt.subplot(2, 1, 1)
     colors = ['red', 'blue']
 
@@ -17,9 +17,9 @@ def plotNNInformations(title, X, T, W, LearningCurve):
     x = np.linspace(-5, 5, 50)
     print(W)
 
-    y = - (W[0][2] + W[0][0] * x) / W[0][1]
-    plt.title("Decision Boundary " + title)
-    plt.plot(x, y)
+    # y = - (W[0][2] + W[0][0] * x) / W[0][1]
+    # plt.title("Decision Boundary " + title)
+    # plt.plot(x, y)
 
 
     plt.subplot(2, 1, 2)
