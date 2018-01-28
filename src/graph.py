@@ -4,6 +4,32 @@ import matplotlib.animation as animation
 import numpy as np
 
 
+def plotNNInformations(title, X, T, W, LearningCurve):
+    X = X.T
+    T = (T + 1) // 2
+
+    fig = plt.figure(figsize=(10, 10))
+    plt.subplot(2, 1, 1)
+    colors = ['red', 'blue']
+
+    plt.scatter(X[:, 0], X[:, 1], c=[colors[i] for i in T])
+
+    x = np.linspace(-5, 5, 50)
+    print(W)
+
+    y = - (W[0][2] + W[0][0] * x) / W[0][1]
+    plt.title("Decision Boundary " + title)
+    plt.plot(x, y)
+
+
+    plt.subplot(2, 1, 2)
+    plt.ylim([-0.1, 1.1])
+    plt.xlim([-len(LearningCurve) * 0.1, len(LearningCurve) + len(LearningCurve) * 0.1])
+    lines, = plt.plot(range(len(LearningCurve)), LearningCurve)
+    plt.setp(lines, linewidth=2, color='r')
+    plt.title("Learning Curve  " + title)
+    plt.show()
+
 def plotDataset(X, T):
     X = X.T
     T = (T + 1) // 2
@@ -15,7 +41,7 @@ def plotDataset(X, T):
     plt.show()
 
 
-def plotDecisionBoundary(X, T, W):
+def plotDecisionBoundary(title, X, T, W):
     X = X.T
     T = (T + 1) // 2
 
@@ -29,10 +55,11 @@ def plotDecisionBoundary(X, T, W):
 
     y = - (W[0][2] + W[0][0] * x) / W[0][1]
     plt.plot(x, y)
+    plt.title(title)
     plt.show()
 
 
-def plotDecisionBoundaryAnim(X, T, WHistory):
+def plotDecisionBoundaryAnim(title, X, T, WHistory):
     X = X.T
     T = (T + 1) // 2
 
@@ -73,12 +100,14 @@ def plotDecisionBoundaryAnim(X, T, WHistory):
     ani = animation.FuncAnimation(
         fig, animate, init_func=init, frames=len(WHistory), blit=True)
 
+    plt.title(title)
     plt.show()
 
 
-def plotError(eHistory):
+def plotError(title, eHistory):
     plt.ylim([-0.1, 1.1])
     plt.xlim([-len(eHistory) * 0.1, len(eHistory) + len(eHistory) * 0.1])
     plt.plot(range(len(eHistory)), eHistory, 'red')
     plt.scatter(range(len(eHistory)), eHistory)
+    plt.title(title)
     plt.show()
