@@ -8,6 +8,9 @@ gamma = 0.1
 n = 10
 tau = 25
 
+X = []
+T = []
+
 def computeX(nb):
     x = [1.5]
     for i in range(nb):
@@ -53,3 +56,6 @@ if __name__ == '__main__':
     MLP = NN_part2.NN()
     MLP.fit(trainSet,trainValue)
     out = MLP.predict(testSet)
+
+    MSE = np.mean((out - testValue)**2)
+    print(MSE)
