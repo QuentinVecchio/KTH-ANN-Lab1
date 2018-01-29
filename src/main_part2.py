@@ -41,8 +41,12 @@ def generateDataSet():
     validationSet = inputs[-200:]
     validationValue = outputs[-200:]
 
+
     return trainSet, trainValue, testSet, testValue, validationSet, validationValue
 
 
 if __name__ == '__main__':
     trainSet, trainValue, testSet, testValue, validationSet, validationValue = generateDataSet()
+    MLP = NN_part2.NN()
+    MLP.fit(trainSet,trainValue)
+    out = MLP.predict(testSet)
