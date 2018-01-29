@@ -44,6 +44,7 @@ def scenario3_2_1():
     T = [1] * 2*N + [-1] * 2*N
     p = np.random.permutation(len(X))
     X, T = (np.array(X)[p]).T, np.array(T)[p]
+    print(T.shape)
     multipleLayerNN = NN2.MultipleLayer(batch_size=-1, nb_eboch=1000, lr=0.01, hidden_layer_size=2)
     WHistoryMNN, eHistoryMNN = multipleLayerNN.fit(X, T)
     graph.plotNNInformations("Multiple Layer NN", X, T, WHistoryMNN[-1], eHistoryMNN)
@@ -69,6 +70,28 @@ def scenario3_2_2():
             print("FAIL!!!")
         print("--------------------------")
     graph.plotError("Encoder Learning Curve", eHistory)
+
+def f(xy):
+    out = []
+    for x,y in xy:
+        out.append(np.exp(-(x ** 2 + y ** 2) * 0.1) - 0.5)
+    return np.reshape(out, (len(xy), 1))
+def f1(x, y):
+    return (np.exp(-(x ** 2 + y ** 2) * 0.1) - 0.5)
+def scenario3_3_1():
+    # generation data
+
+    n = 200
+
+
+    x, y = np.mgrid[-5.0:5.0:200j, -5.0:5.0:200j]  # j
+    X = np.column_stack([x.flat, y.flat])
+    Y = f(X)
+    multipleLayerNN = NN2.MultipleLayerG(batch_size=-1, nb_eboch=1000, lr=0.0001, hidden_layer_size=20)
+    WHistory, eHistory, pHistory = multipleLayerNN.fit(X.T, Y.T)
+    graph.plotError("Gaussian Curve", eHistory)
+    graph.plot3Dgaussian(pHistory, n)
+
 
 def test():
     X, T = generateDataSet()

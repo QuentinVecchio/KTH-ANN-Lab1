@@ -1,7 +1,39 @@
+from __future__ import division
 import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import numpy as np
+
+from matplotlib import cm
+from mpl_toolkits.mplot3d import Axes3D
+import mpl_toolkits.mplot3d.axes3d as p3
+
+
+def plot3Dgaussian(p, n):
+    def data(i, z, line):
+        z = np.reshape(p[i], (n, n))
+        ax.clear()
+        line = ax.plot_surface(x, y, z)
+        return line,
+
+    fig = plt.figure()
+    ax = fig.add_subplot(111, projection='3d')
+
+
+
+    x = np.linspace(-5.0, 5.0, num=n)
+    y = np.linspace(-5.0, 5.0, num=n)
+
+    x, y = np.meshgrid(x, y)
+    z = np.reshape(p[-1], (n, n))
+    #line = ax.plot_surface(x, y, z)
+    #plt.show()
+    z = np.reshape(p[0],(n,n))
+
+    line = ax.plot_surface(x, y, z)
+
+    ani = animation.FuncAnimation(fig, data, fargs=(z,line),frames=len(p), interval= 25, blit=False)
+    plt.show()
 
 
 def plotNNInformations(title, X, T, W, LearningCurve):
@@ -72,7 +104,6 @@ def plotDecisionBoundaryAnim(title, X, T, WHistory):
     T = (T + 1) // 2
 
     fig, ax = plt.subplots()
-
     colors = ['red', 'blue']
     colorsNeuron = ['green', 'blue']
     ax.scatter(X[:, 0], X[:, 1], c=[colors[i] for i in T])
@@ -102,7 +133,6 @@ def plotDecisionBoundaryAnim(title, X, T, WHistory):
             a = -w[x] / w[y]
             yy = a * xx - (W.item(bias)) / w[y]
             lines[index].set_xdata(yy)
-
         return tuple(lines)
 
 
@@ -112,8 +142,8 @@ def plotDecisionBoundaryAnim(title, X, T, WHistory):
             w = [W.item(x), W.item(y)]
             a = -w[x] / w[y]
             yy = a * xx - (W.item(bias)) / w[y]
-            lines[index].set_xdata(yy)
 
+            lines[index].set_xdata(yy)
         return tuple(lines)
 
     ani = animation.FuncAnimation(
