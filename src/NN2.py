@@ -2,8 +2,8 @@ import numpy as np
 import math
 import copy
 
-class SingleLayerNN2():
-    def __init__(self, lr=0.001, nb_eboch=1000, hidden_layer_size=2, batch_size=200):
+class MultipleLayer():
+    def __init__(self, lr=0.0001, nb_eboch=5, hidden_layer_size=2, batch_size=200):
         self.batch_size = batch_size
         self.lr = lr
         self.nb_eboch = nb_eboch
@@ -12,12 +12,12 @@ class SingleLayerNN2():
         self.hidden_layer_size = hidden_layer_size
 
     def phi(self, x):
-        return 2.0 / (1.0 + np.exp(-x)) - 1
+        return 1.0 / (1.0 + np.exp(-x))
 
 
     def phiPrime(self,x):
         phix = self.phi(x)
-        return np.multiply((1 + phix),(1 - phix)) / 2.0
+        return np.multiply((1.0 + phix),(1.0 - phix)) / 2.0
 
     def posneg(self, WX):
         output = []
@@ -29,17 +29,17 @@ class SingleLayerNN2():
         return output
 
     def fit(self, X, Y):  # X = (len(X[0]) + 1, n)
-        X = np.vstack([X, [1] * len(X[0])])
+        X = np.vstack([X, [1.0] * len(X[0])])
         WHistory = []
         eHistory = []
 
         self.W = np.reshape(np.random.normal(0, 1, self.hidden_layer_size * len(X)), (self.hidden_layer_size, len(X)))
-        self.V = np.reshape(np.random.normal(0, 1, self.hidden_layer_size), (1, self.hidden_layer_size))
+        self.V = np.reshape(np.random.normal(0, 1, self.hidden_layer_size+1), (1, self.hidden_layer_size+1))
 
         for step in range(self.nb_eboch):
-            p = np.random.permutation(len(X[0]))
-            X = X.T[p].T
-            Y = Y[p]
+            # p = np.random.permutation(len(X[0]))
+            # X = X.T[p].T
+            # Y = Y[p]
             batchIndex_list = []
             if (self.batch_size == -1):
                 batchIndex_list.append([0, len(X[0])])
@@ -52,23 +52,27 @@ class SingleLayerNN2():
                 batch = X.T[start: end].T
                 Hstar = np.dot(self.W, batch)  # size: (hls, len(X)) * (len(X), n) =(hls, n)
                 H = self.phi(Hstar)  # size: (hls, n)
-                Ostar = np.dot(self.V, H)  # size: (1, hls) * (hls, n) =(1, n)
+                H = np.vstack([H, [1.0] * len(H[0])]) # Add bias
+                Ostar = np.dot(self.V, H)  # size: (size Output, hls+bias) * (hls+bias, n) =(size Output, n)
                 O = self.phi(Ostar)  # size: (hls, len(X)) * (len(X), n) =(1, n)
                 e = self.posneg(O) - Y.T[start:end].T
                 deltaO = np.multiply((O - Y.T[start:end].T),self.phiPrime(Ostar))
-                deltaH = np.multiply(np.dot(self.V.T, deltaO),self.phiPrime(Hstar))
+                deltaH = np.multiply(np.dot(self.V.T, deltaO),self.phiPrime(H))
+                deltaH = deltaH[:-1,:]# Remove Bias row
                 deltaW = - self.lr * np.dot(deltaH, batch.T)
                 deltaV = - self.lr * np.dot(deltaO, H.T)
                 self.V += deltaV
                 self.W += deltaW
                 WHistory.append(copy.copy(self.W))
-                eHistory.append(np.mean(abs(e/2)))
+                eHistory.append(np.mean(abs(e/2.0)))
+
         return WHistory, eHistory
 
     def predict(self, X):
         X = np.vstack([X, [1] * len(X[0])])
         Hstar = np.dot(self.W, X)  # size: (hls, len(X)) * (len(X), n) =(hls, n)
         H = self.phi(Hstar)  # size: (hls, n)
+        H = np.vstack([H, [1] * len(H[0])]) # Add bias
         Ostar = np.dot(self.V, H)  # size: (1, hls) * (hls, n) =(1, n)
         O = self.phi(Ostar)  # size: (hls, len(X)) * (len(X), n) =(1, n)
         return self.posneg(O)

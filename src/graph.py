@@ -79,31 +79,40 @@ def plotDecisionBoundaryAnim(title, X, T, WHistory):
     x = 1
     y = 0
     bias = 2
+    lines = []
 
     ymin, ymax = plt.ylim()
-    w = [WHistory[0].item(x), WHistory[0].item(y)]
-    a = -w[x] / w[y]
-    xx = np.linspace(ymin, ymax)
-    yy = a * xx - (WHistory[0].item(bias)) / w[y]
-    line, = ax.plot(yy, xx, 'k-')
+
+    for W in WHistory[0]:
+        w = [W.item(x), W.item(y)]
+        a = -w[x] / w[y]
+        xx = np.linspace(ymin, ymax)
+        yy = a * xx - (W.item(bias)) / w[y]
+        line, = ax.plot(yy, xx, 'black')
+        lines.append(line)
 
     ttl = ax.text(0.05, 0.9, '', transform=ax.transAxes)
 
     def animate(i):
         ttl.set_text('Decision Boundary Iteration ' + str(i % len(WHistory)))
-        w = [WHistory[i].item(x), WHistory[i].item(y)]
-        a = -w[x] / w[y]
-        yy = a * xx - (WHistory[i].item(bias)) / w[y]
-        line.set_xdata(yy)  # update the data
-        return ttl, line
+        for index, W in enumerate(WHistory[i]):
+            w = [W.item(x), W.item(y)]
+            a = -w[x] / w[y]
+            yy = a * xx - (W.item(bias)) / w[y]
+            lines[index].set_xdata(yy)
+
+        return ttl, lines[0], lines[1],
+
 
     def init():
         ttl.set_text('Decision Boundary Iteration ' + str(0))
-        w = [WHistory[0].item(x), WHistory[0].item(y)]
-        a = -w[x] / w[y]
-        yy = a * xx - (WHistory[0].item(bias)) / w[y]
-        line.set_xdata(yy)
-        return ttl, line,
+        for index, W in enumerate(WHistory[0]):
+            w = [W.item(x), W.item(y)]
+            a = -w[x] / w[y]
+            yy = a * xx - (W.item(bias)) / w[y]
+            lines[index].set_xdata(yy)
+
+        return ttl, lines[0], lines[1],
 
     ani = animation.FuncAnimation(
         fig, animate, init_func=init, frames=len(WHistory), blit=True)
