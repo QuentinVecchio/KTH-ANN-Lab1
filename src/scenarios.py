@@ -55,11 +55,20 @@ def scenario3_2_2():
     X = np.ones((N, N)) * -1
     indices_diagonal = np.diag_indices(N)
     X[indices_diagonal] = 1
-    print(X)
-    multipleLayerNN = NN2.MultipleLayer(hidden_layer_size=H, batch_size=-1)
+    multipleLayerNN = NN2.MultipleLayer(hidden_layer_size=H, batch_size=-1, nb_eboch=10000, lr=0.01)
     WHistory, eHistory = multipleLayerNN.fit(X, X)
-    graph.plotError("Learning Rate Encoder", eHistory)
-    #graph.plotDecisionBoundaryAnim("Multiple Layer NN Anim", X, T, WHistoryMNN)
+    predict = multipleLayerNN.predict(X)
+    for i,p in enumerate(predict):
+        print("Encoder predicts : ")
+        print(p)
+        print("Good answer was : ")
+        print(X[i])
+        if np.array_equal(X[i],p):
+            print("GOOD!!!")
+        else:
+            print("FAIL!!!")
+        print("--------------------------")
+    graph.plotError("Encoder Learning Curve", eHistory)
 
 def test():
     X, T = generateDataSet()

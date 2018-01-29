@@ -126,7 +126,7 @@ def plotDecisionBoundaryAnim(title, X, T, WHistory):
 def plotError(title, eHistory):
     plt.ylim([-0.1, 1.1])
     plt.xlim([-len(eHistory) * 0.1, len(eHistory) + len(eHistory) * 0.1])
-    plt.plot(range(len(eHistory)), eHistory, 'red')
-    plt.scatter(range(len(eHistory)), eHistory)
+    lines, = plt.plot(range(len(eHistory)), eHistory)
+    plt.setp(lines, linewidth=2, color='r')
     plt.title(title)
     plt.show()

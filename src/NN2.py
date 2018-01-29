@@ -20,11 +20,14 @@ class MultipleLayer():
 
     def posneg(self, WX):
         output = []
-        for x in WX.T:
-            if (x < 0):
-                output.append(-1)
-            else:
-                output.append(1)
+        for t in WX.T:
+            out = []
+            for x in t:
+                if (x < 0):
+                    out.append(-1)
+                else:
+                    out.append(1)
+            output.append(out)
         return output
 
     def fit(self, X, Y):  # X = (len(X[0]) + 1, n)
@@ -33,7 +36,7 @@ class MultipleLayer():
         eHistory = []
 
         self.W = np.reshape(np.random.normal(0, 1, self.hidden_layer_size * len(X)), (self.hidden_layer_size, len(X)))
-        self.V = np.reshape(np.random.normal(0, 1, self.hidden_layer_size+1), (1, self.hidden_layer_size+1))
+        self.V = np.reshape(np.random.normal(0, 1, (self.hidden_layer_size+1) * Y.shape[0]), (Y.shape[0], self.hidden_layer_size+1))
 
         for step in range(self.nb_eboch):
             # p = np.random.permutation(len(X[0]))
@@ -65,7 +68,6 @@ class MultipleLayer():
                 self.W += deltaW
                 WHistory.append(copy.copy(self.W))
                 eHistory.append(np.mean(abs(e/2.0)))
-                # print(np.mean(abs(e/2.0)))
 
         return WHistory, eHistory
 
