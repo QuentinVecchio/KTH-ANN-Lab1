@@ -1,0 +1,1735 @@
+Compute all networks, nb: 864
+Train new network 0
+Train new network 1
+Train new network 2
+Train new network 3
+Train new network 4
+Train new network 5
+Train new network 6
+Train new network 7
+Train new network 8
+Train new network 9
+Train new network 10
+Train new network 11
+Train new network 12
+Train new network 13
+Train new network 14
+Train new network 15
+Train new network 16
+Train new network 17
+Train new network 18
+Train new network 19
+Train new network 20
+Train new network 21
+Train new network 22
+Train new network 23
+Train new network 24
+Train new network 25
+Train new network 26
+Train new network 27
+Train new network 28
+Train new network 29
+Train new network 30
+Train new network 31
+Train new network 32
+Train new network 33
+Train new network 34
+Train new network 35
+Train new network 36
+Train new network 37
+Train new network 38
+Train new network 39
+Train new network 40
+Train new network 41
+Train new network 42
+Train new network 43
+Train new network 44
+Train new network 45
+Train new network 46
+Train new network 47
+Train new network 48
+Train new network 49
+Train new network 50
+Train new network 51
+Train new network 52
+Train new network 53
+Train new network 54
+Train new network 55
+Train new network 56
+Train new network 57
+Train new network 58
+Train new network 59
+Train new network 60
+Train new network 61
+Train new network 62
+Train new network 63
+Train new network 64
+Train new network 65
+Train new network 66
+Train new network 67
+Train new network 68
+Train new network 69
+Train new network 70
+Train new network 71
+Train new network 72
+Train new network 73
+Train new network 74
+Train new network 75
+Train new network 76
+Train new network 77
+Train new network 78
+Train new network 79
+Train new network 80
+Train new network 81
+Train new network 82
+Train new network 83
+Train new network 84
+Train new network 85
+Train new network 86
+Train new network 87
+Train new network 88
+Train new network 89
+Train new network 90
+Train new network 91
+Train new network 92
+Train new network 93
+Train new network 94
+Train new network 95
+Train new network 96
+Train new network 97
+Train new network 98
+Train new network 99
+Train new network 100
+Train new network 101
+Train new network 102
+Train new network 103
+Train new network 104
+Train new network 105
+Train new network 106
+Train new network 107
+Train new network 108
+Train new network 109
+Train new network 110
+Train new network 111
+Train new network 112
+Train new network 113
+Train new network 114
+Train new network 115
+Train new network 116
+Train new network 117
+Train new network 118
+Train new network 119
+Train new network 120
+Train new network 121
+Train new network 122
+Train new network 123
+Train new network 124
+Train new network 125
+Train new network 126
+Train new network 127
+Train new network 128
+Train new network 129
+Train new network 130
+Train new network 131
+Train new network 132
+Train new network 133
+Train new network 134
+Train new network 135
+Train new network 136
+Train new network 137
+Train new network 138
+Train new network 139
+Train new network 140
+Train new network 141
+Train new network 142
+Train new network 143
+Train new network 144
+Train new network 145
+Train new network 146
+Train new network 147
+Train new network 148
+Train new network 149
+Train new network 150
+Train new network 151
+Train new network 152
+Train new network 153
+Train new network 154
+Train new network 155
+Train new network 156
+Train new network 157
+Train new network 158
+Train new network 159
+Train new network 160
+Train new network 161
+Train new network 162
+Train new network 163
+Train new network 164
+Train new network 165
+Train new network 166
+Train new network 167
+Train new network 168
+Train new network 169
+Train new network 170
+Train new network 171
+Train new network 172
+Train new network 173
+Train new network 174
+Train new network 175
+Train new network 176
+Train new network 177
+Train new network 178
+Train new network 179
+Train new network 180
+Train new network 181
+Train new network 182
+Train new network 183
+Train new network 184
+Train new network 185
+Train new network 186
+Train new network 187
+Train new network 188
+Train new network 189
+Train new network 190
+Train new network 191
+Train new network 192
+Train new network 193
+Train new network 194
+Train new network 195
+Train new network 196
+Train new network 197
+Train new network 198
+Train new network 199
+Train new network 200
+Train new network 201
+Train new network 202
+Train new network 203
+Train new network 204
+Train new network 205
+Train new network 206
+Train new network 207
+Train new network 208
+Train new network 209
+Train new network 210
+Train new network 211
+Train new network 212
+Train new network 213
+Train new network 214
+Train new network 215
+Train new network 216
+Train new network 217
+Train new network 218
+Train new network 219
+Train new network 220
+Train new network 221
+Train new network 222
+Train new network 223
+Train new network 224
+Train new network 225
+Train new network 226
+Train new network 227
+Train new network 228
+Train new network 229
+Train new network 230
+Train new network 231
+Train new network 232
+Train new network 233
+Train new network 234
+Train new network 235
+Train new network 236
+Train new network 237
+Train new network 238
+Train new network 239
+Train new network 240
+Train new network 241
+Train new network 242
+Train new network 243
+Train new network 244
+Train new network 245
+Train new network 246
+Train new network 247
+Train new network 248
+Train new network 249
+Train new network 250
+Train new network 251
+Train new network 252
+Train new network 253
+Train new network 254
+Train new network 255
+Train new network 256
+Train new network 257
+Train new network 258
+Train new network 259
+Train new network 260
+Train new network 261
+Train new network 262
+Train new network 263
+Train new network 264
+Train new network 265
+Train new network 266
+Train new network 267
+Train new network 268
+Train new network 269
+Train new network 270
+Train new network 271
+Train new network 272
+Train new network 273
+Train new network 274
+Train new network 275
+Train new network 276
+Train new network 277
+Train new network 278
+Train new network 279
+Train new network 280
+Train new network 281
+Train new network 282
+Train new network 283
+Train new network 284
+Train new network 285
+Train new network 286
+Train new network 287
+Train new network 288
+Train new network 289
+Train new network 290
+Train new network 291
+Train new network 292
+Train new network 293
+Train new network 294
+Train new network 295
+Train new network 296
+Train new network 297
+Train new network 298
+Train new network 299
+Train new network 300
+Train new network 301
+Train new network 302
+Train new network 303
+Train new network 304
+Train new network 305
+Train new network 306
+Train new network 307
+Train new network 308
+Train new network 309
+Train new network 310
+Train new network 311
+Train new network 312
+Train new network 313
+Train new network 314
+Train new network 315
+Train new network 316
+Train new network 317
+Train new network 318
+Train new network 319
+Train new network 320
+Train new network 321
+Train new network 322
+Train new network 323
+Train new network 324
+Train new network 325
+Train new network 326
+Train new network 327
+Train new network 328
+Train new network 329
+Train new network 330
+Train new network 331
+Train new network 332
+Train new network 333
+Train new network 334
+Train new network 335
+Train new network 336
+Train new network 337
+Train new network 338
+Train new network 339
+Train new network 340
+Train new network 341
+Train new network 342
+Train new network 343
+Train new network 344
+Train new network 345
+Train new network 346
+Train new network 347
+Train new network 348
+Train new network 349
+Train new network 350
+Train new network 351
+Train new network 352
+Train new network 353
+Train new network 354
+Train new network 355
+Train new network 356
+Train new network 357
+Train new network 358
+Train new network 359
+Train new network 360
+Train new network 361
+Train new network 362
+Train new network 363
+Train new network 364
+Train new network 365
+Train new network 366
+Train new network 367
+Train new network 368
+Train new network 369
+Train new network 370
+Train new network 371
+Train new network 372
+Train new network 373
+Train new network 374
+Train new network 375
+Train new network 376
+Train new network 377
+Train new network 378
+Train new network 379
+Train new network 380
+Train new network 381
+Train new network 382
+Train new network 383
+Train new network 384
+Train new network 385
+Train new network 386
+Train new network 387
+Train new network 388
+Train new network 389
+Train new network 390
+Train new network 391
+Train new network 392
+Train new network 393
+Train new network 394
+Train new network 395
+Train new network 396
+Train new network 397
+Train new network 398
+Train new network 399
+Train new network 400
+Train new network 401
+Train new network 402
+Train new network 403
+Train new network 404
+Train new network 405
+Train new network 406
+Train new network 407
+Train new network 408
+Train new network 409
+Train new network 410
+Train new network 411
+Train new network 412
+Train new network 413
+Train new network 414
+Train new network 415
+Train new network 416
+Train new network 417
+Train new network 418
+Train new network 419
+Train new network 420
+Train new network 421
+Train new network 422
+Train new network 423
+Train new network 424
+Train new network 425
+Train new network 426
+Train new network 427
+Train new network 428
+Train new network 429
+Train new network 430
+Train new network 431
+Train new network 432
+Train new network 433
+Train new network 434
+Train new network 435
+Train new network 436
+Train new network 437
+Train new network 438
+Train new network 439
+Train new network 440
+Train new network 441
+Train new network 442
+Train new network 443
+Train new network 444
+Train new network 445
+Train new network 446
+Train new network 447
+Train new network 448
+Train new network 449
+Train new network 450
+Train new network 451
+Train new network 452
+Train new network 453
+Train new network 454
+Train new network 455
+Train new network 456
+Train new network 457
+Train new network 458
+Train new network 459
+Train new network 460
+Train new network 461
+Train new network 462
+Train new network 463
+Train new network 464
+Train new network 465
+Train new network 466
+Train new network 467
+Train new network 468
+Train new network 469
+Train new network 470
+Train new network 471
+Train new network 472
+Train new network 473
+Train new network 474
+Train new network 475
+Train new network 476
+Train new network 477
+Train new network 478
+Train new network 479
+Train new network 480
+Train new network 481
+Train new network 482
+Train new network 483
+Train new network 484
+Train new network 485
+Train new network 486
+Train new network 487
+Train new network 488
+Train new network 489
+Train new network 490
+Train new network 491
+Train new network 492
+Train new network 493
+Train new network 494
+Train new network 495
+Train new network 496
+Train new network 497
+Train new network 498
+Train new network 499
+Train new network 500
+Train new network 501
+Train new network 502
+Train new network 503
+Train new network 504
+Train new network 505
+Train new network 506
+Train new network 507
+Train new network 508
+Train new network 509
+Train new network 510
+Train new network 511
+Train new network 512
+Train new network 513
+Train new network 514
+Train new network 515
+Train new network 516
+Train new network 517
+Train new network 518
+Train new network 519
+Train new network 520
+Train new network 521
+Train new network 522
+Train new network 523
+Train new network 524
+Train new network 525
+Train new network 526
+Train new network 527
+Train new network 528
+Train new network 529
+Train new network 530
+Train new network 531
+Train new network 532
+Train new network 533
+Train new network 534
+Train new network 535
+Train new network 536
+Train new network 537
+Train new network 538
+Train new network 539
+Train new network 540
+Train new network 541
+Train new network 542
+Train new network 543
+Train new network 544
+Train new network 545
+Train new network 546
+Train new network 547
+Train new network 548
+Train new network 549
+Train new network 550
+Train new network 551
+Train new network 552
+Train new network 553
+Train new network 554
+Train new network 555
+Train new network 556
+Train new network 557
+Train new network 558
+Train new network 559
+Train new network 560
+Train new network 561
+Train new network 562
+Train new network 563
+Train new network 564
+Train new network 565
+Train new network 566
+Train new network 567
+Train new network 568
+Train new network 569
+Train new network 570
+Train new network 571
+Train new network 572
+Train new network 573
+Train new network 574
+Train new network 575
+Train new network 576
+Train new network 577
+Train new network 578
+Train new network 579
+Train new network 580
+Train new network 581
+Train new network 582
+Train new network 583
+Train new network 584
+Train new network 585
+Train new network 586
+Train new network 587
+Train new network 588
+Train new network 589
+Train new network 590
+Train new network 591
+Train new network 592
+Train new network 593
+Train new network 594
+Train new network 595
+Train new network 596
+Train new network 597
+Train new network 598
+Train new network 599
+Train new network 600
+Train new network 601
+Train new network 602
+Train new network 603
+Train new network 604
+Train new network 605
+Train new network 606
+Train new network 607
+Train new network 608
+Train new network 609
+Train new network 610
+Train new network 611
+Train new network 612
+Train new network 613
+Train new network 614
+Train new network 615
+Train new network 616
+Train new network 617
+Train new network 618
+Train new network 619
+Train new network 620
+Train new network 621
+Train new network 622
+Train new network 623
+Train new network 624
+Train new network 625
+Train new network 626
+Train new network 627
+Train new network 628
+Train new network 629
+Train new network 630
+Train new network 631
+Train new network 632
+Train new network 633
+Train new network 634
+Train new network 635
+Train new network 636
+Train new network 637
+Train new network 638
+Train new network 639
+Train new network 640
+Train new network 641
+Train new network 642
+Train new network 643
+Train new network 644
+Train new network 645
+Train new network 646
+Train new network 647
+Train new network 648
+Train new network 649
+Train new network 650
+Train new network 651
+Train new network 652
+Train new network 653
+Train new network 654
+Train new network 655
+Train new network 656
+Train new network 657
+Train new network 658
+Train new network 659
+Train new network 660
+Train new network 661
+Train new network 662
+Train new network 663
+Train new network 664
+Train new network 665
+Train new network 666
+Train new network 667
+Train new network 668
+Train new network 669
+Train new network 670
+Train new network 671
+Train new network 672
+Train new network 673
+Train new network 674
+Train new network 675
+Train new network 676
+Train new network 677
+Train new network 678
+Train new network 679
+Train new network 680
+Train new network 681
+Train new network 682
+Train new network 683
+Train new network 684
+Train new network 685
+Train new network 686
+Train new network 687
+Train new network 688
+Train new network 689
+Train new network 690
+Train new network 691
+Train new network 692
+Train new network 693
+Train new network 694
+Train new network 695
+Train new network 696
+Train new network 697
+Train new network 698
+Train new network 699
+Train new network 700
+Train new network 701
+Train new network 702
+Train new network 703
+Train new network 704
+Train new network 705
+Train new network 706
+Train new network 707
+Train new network 708
+Train new network 709
+Train new network 710
+Train new network 711
+Train new network 712
+Train new network 713
+Train new network 714
+Train new network 715
+Train new network 716
+Train new network 717
+Train new network 718
+Train new network 719
+Train new network 720
+Train new network 721
+Train new network 722
+Train new network 723
+Train new network 724
+Train new network 725
+Train new network 726
+Train new network 727
+Train new network 728
+Train new network 729
+Train new network 730
+Train new network 731
+Train new network 732
+Train new network 733
+Train new network 734
+Train new network 735
+Train new network 736
+Train new network 737
+Train new network 738
+Train new network 739
+Train new network 740
+Train new network 741
+Train new network 742
+Train new network 743
+Train new network 744
+Train new network 745
+Train new network 746
+Train new network 747
+Train new network 748
+Train new network 749
+Train new network 750
+Train new network 751
+Train new network 752
+Train new network 753
+Train new network 754
+Train new network 755
+Train new network 756
+Train new network 757
+Train new network 758
+Train new network 759
+Train new network 760
+Train new network 761
+Train new network 762
+Train new network 763
+Train new network 764
+Train new network 765
+Train new network 766
+Train new network 767
+Train new network 768
+Train new network 769
+Train new network 770
+Train new network 771
+Train new network 772
+Train new network 773
+Train new network 774
+Train new network 775
+Train new network 776
+Train new network 777
+Train new network 778
+Train new network 779
+Train new network 780
+Train new network 781
+Train new network 782
+Train new network 783
+Train new network 784
+Train new network 785
+Train new network 786
+Train new network 787
+Train new network 788
+Train new network 789
+Train new network 790
+Train new network 791
+Train new network 792
+Train new network 793
+Train new network 794
+Train new network 795
+Train new network 796
+Train new network 797
+Train new network 798
+Train new network 799
+Train new network 800
+Train new network 801
+Train new network 802
+Train new network 803
+Train new network 804
+Train new network 805
+Train new network 806
+Train new network 807
+Train new network 808
+Train new network 809
+Train new network 810
+Train new network 811
+Train new network 812
+Train new network 813
+Train new network 814
+Train new network 815
+Train new network 816
+Train new network 817
+Train new network 818
+Train new network 819
+Train new network 820
+Train new network 821
+Train new network 822
+Train new network 823
+Train new network 824
+Train new network 825
+Train new network 826
+Train new network 827
+Train new network 828
+Train new network 829
+Train new network 830
+Train new network 831
+Train new network 832
+Train new network 833
+Train new network 834
+Train new network 835
+Train new network 836
+Train new network 837
+Train new network 838
+Train new network 839
+Train new network 840
+Train new network 841
+Train new network 842
+Train new network 843
+Train new network 844
+Train new network 845
+Train new network 846
+Train new network 847
+Train new network 848
+Train new network 849
+Train new network 850
+Train new network 851
+Train new network 852
+Train new network 853
+Train new network 854
+Train new network 855
+Train new network 856
+Train new network 857
+Train new network 858
+Train new network 859
+Train new network 860
+Train new network 861
+Train new network 862
+Train new network 863
+Computation over
+
+MSE on the validation set:
+lr: 0.1 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.00461131774978
+lr: 0.1 node: 3 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.00489859716455
+lr: 0.1 node: 4 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.00577919444875
+lr: 0.1 node: 4 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.00600701997547
+lr: 0.01 node: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0065793141905
+lr: 0.1 node: 3 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0067994461718
+lr: 0.1 node: 3 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.00694197643846
+lr: 0.01 node: 6 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.00712040590188
+lr: 0.01 node: 7 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.00735057759236
+lr: 0.1 node: 3 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.00754065821729
+lr: 0.1 node: 7 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.00789347435625
+lr: 0.1 node: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.00807882084654
+lr: 0.01 node: 8 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.00812732267639
+lr: 0.1 node: 8 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.00852154723671
+lr: 0.1 node: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.00898537338938
+lr: 0.01 node: 3 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.00955261317012
+lr: 0.1 node: 6 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0098139651779
+lr: 0.1 node: 8 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0098626121758
+lr: 0.01 node: 7 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.00986870449807
+lr: 0.1 node: 7 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0100460517014
+lr: 0.1 node: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0101074748096
+lr: 0.01 node: 5 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0101284137572
+lr: 0.1 node: 6 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0102378684299
+lr: 0.1 node: 7 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0105682334648
+lr: 0.1 node: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0105953700411
+lr: 0.1 node: 7 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0106026727287
+lr: 0.1 node: 8 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0106672586928
+lr: 0.1 node: 6 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0107194597248
+lr: 0.1 node: 7 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0109016251389
+lr: 0.1 node: 4 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.010954089573
+lr: 0.1 node: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.010988072071
+lr: 0.01 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0116747797831
+lr: 0.01 node: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0118195412649
+lr: 0.1 node: 5 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0118345462113
+lr: 0.1 node: 6 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0119384389622
+lr: 0.001 node: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0120644778767
+lr: 0.1 node: 4 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0120744379927
+lr: 0.01 node: 1 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.012256990386
+lr: 0.01 node: 8 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0123036781834
+lr: 0.1 node: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0123815331623
+lr: 0.001 node: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0124633999028
+lr: 0.1 node: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0124680110508
+lr: 0.1 node: 7 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0127481374385
+lr: 0.1 node: 7 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0128177791791
+lr: 0.1 node: 4 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0128270011332
+lr: 0.1 node: 8 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0128837221528
+lr: 0.01 node: 8 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0129847134268
+lr: 0.1 node: 6 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0130012358114
+lr: 0.1 node: 6 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0130455953625
+lr: 0.1 node: 8 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0134593301691
+lr: 0.1 node: 8 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0135681285993
+lr: 0.1 node: 8 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0137187909585
+lr: 0.01 node: 8 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0140133988026
+lr: 0.01 node: 6 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0140539673346
+lr: 0.01 node: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0140782694578
+lr: 0.001 node: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0141110732581
+lr: 0.01 node: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0141833763003
+lr: 0.1 node: 6 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0142878598201
+lr: 0.01 node: 8 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0143436333969
+lr: 0.1 node: 5 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0143537422394
+lr: 0.1 node: 7 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0144438795295
+lr: 0.1 node: 3 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0144623472817
+lr: 0.1 node: 8 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0145548372227
+lr: 0.01 node: 6 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0145874223238
+lr: 0.01 node: 5 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0148078143937
+lr: 0.01 node: 5 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0148970843069
+lr: 0.1 node: 4 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.014938070082
+lr: 0.1 node: 1 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0150310003548
+lr: 0.1 node: 6 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0150987208444
+lr: 0.1 node: 5 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.015184819859
+lr: 0.01 node: 8 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0152803611865
+lr: 0.01 node: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0153457933458
+lr: 0.1 node: 7 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0155456899824
+lr: 0.1 node: 5 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0157143578393
+lr: 0.01 node: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0157499864086
+lr: 0.01 node: 8 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0158540528584
+lr: 0.1 node: 7 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0158772863267
+lr: 0.01 node: 1 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.015898838653
+lr: 0.01 node: 5 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0159351408936
+lr: 0.1 node: 5 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.015989707733
+lr: 0.1 node: 8 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0160010679501
+lr: 0.1 node: 4 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0160802177831
+lr: 0.1 node: 6 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0161438458037
+lr: 0.01 node: 6 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0162384386161
+lr: 0.1 node: 2 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0162585412702
+lr: 0.1 node: 3 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0163614304362
+lr: 0.1 node: 6 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0163622110393
+lr: 0.01 node: 4 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.016363141308
+lr: 0.1 node: 7 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.016527801859
+lr: 0.01 node: 5 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0166065863101
+lr: 0.01 node: 1 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0166483128784
+lr: 0.01 node: 3 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0166654755561
+lr: 0.001 node: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0167257035937
+lr: 0.001 node: 2 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0169340444675
+lr: 0.1 node: 7 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0169361007809
+lr: 0.1 node: 8 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0171495298608
+lr: 0.01 node: 8 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0172503458798
+lr: 0.01 node: 7 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0172572250154
+lr: 0.1 node: 8 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0176567191466
+lr: 0.1 node: 8 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0176844309592
+lr: 0.01 node: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0177088040752
+lr: 0.01 node: 6 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0179566509901
+lr: 0.01 node: 7 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.017980321126
+lr: 0.001 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0180173285068
+lr: 0.1 node: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0180470162836
+lr: 0.1 node: 8 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0180726224521
+lr: 0.01 node: 1 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0183009149416
+lr: 0.01 node: 7 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0185388181849
+lr: 0.01 node: 3 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0188753145608
+lr: 0.01 node: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0189041671089
+lr: 0.1 node: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0189611334254
+lr: 0.01 node: 8 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0189921879519
+lr: 0.001 node: 5 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0190799615865
+lr: 0.1 node: 3 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0192413380136
+lr: 0.1 node: 7 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0192665277494
+lr: 0.1 node: 5 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0194681490356
+lr: 0.001 node: 7 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.019604547873
+lr: 0.1 node: 4 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.019613607128
+lr: 0.001 node: 8 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0196459501144
+lr: 0.01 node: 1 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0197796695912
+lr: 0.001 node: 3 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0197902633527
+lr: 0.01 node: 8 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0198482402599
+lr: 0.01 node: 6 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0198654562868
+lr: 0.01 node: 2 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0203402336866
+lr: 0.1 node: 2 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0203662309325
+lr: 0.1 node: 3 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0203747941463
+lr: 0.1 node: 6 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0204297188345
+lr: 0.1 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0206620301167
+lr: 0.1 node: 1 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0207668672407
+lr: 0.1 node: 8 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0207811839191
+lr: 0.01 node: 7 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.020878004728
+lr: 0.01 node: 7 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0209288682937
+lr: 0.001 node: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0209427543508
+lr: 0.001 node: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0209868253353
+lr: 0.1 node: 3 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0210194648623
+lr: 0.01 node: 5 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0211464516144
+lr: 0.01 node: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0212213682668
+lr: 0.1 node: 7 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0212502684701
+lr: 0.1 node: 5 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0212886797791
+lr: 0.1 node: 4 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.021360448192
+lr: 0.1 node: 2 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0213787560881
+lr: 0.001 node: 6 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.021995038276
+lr: 0.1 node: 5 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0220370593856
+lr: 0.001 node: 4 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0220763740516
+lr: 0.1 node: 8 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0220860551482
+lr: 0.1 node: 6 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.022135017399
+lr: 0.001 node: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0221365319911
+lr: 0.01 node: 3 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0221681541706
+lr: 0.01 node: 7 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0222231872286
+lr: 0.001 node: 8 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0223053745554
+lr: 0.01 node: 2 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0224404338545
+lr: 0.01 node: 8 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0224919196117
+lr: 0.01 node: 1 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0224969168917
+lr: 0.1 node: 6 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0226834906012
+lr: 0.1 node: 5 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.022718263655
+lr: 0.1 node: 5 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0229894459006
+lr: 0.1 node: 1 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.023137439306
+lr: 0.01 node: 3 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0231387731268
+lr: 0.1 node: 1 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.02315803647
+lr: 0.1 node: 5 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0231747597427
+lr: 0.01 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0233270471272
+lr: 0.01 node: 6 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0234328800921
+lr: 0.01 node: 2 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0235785125328
+lr: 0.1 node: 8 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0235989901286
+lr: 0.1 node: 4 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0237926557843
+lr: 0.001 node: 8 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0240035272887
+lr: 0.01 node: 5 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0241356771626
+lr: 0.01 node: 7 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0241768777954
+lr: 0.1 node: 4 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0244310998725
+lr: 0.1 node: 5 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0244867894828
+lr: 0.01 node: 5 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0244992860594
+lr: 0.001 node: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0246250212238
+lr: 0.1 node: 3 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0246341752264
+lr: 0.01 node: 4 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0247049624984
+lr: 0.1 node: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0247992859826
+lr: 0.01 node: 2 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0249118150917
+lr: 0.1 node: 4 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0249586224285
+lr: 0.001 node: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0252554235666
+lr: 0.01 node: 6 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.025299059636
+lr: 0.01 node: 6 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0254673711541
+lr: 0.001 node: 7 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0255240204577
+lr: 0.01 node: 4 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0255478559697
+lr: 0.1 node: 3 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0255482823532
+lr: 0.1 node: 1 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.025589373358
+lr: 0.001 node: 3 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0257192925691
+lr: 0.01 node: 7 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0257414334853
+lr: 0.1 node: 4 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0257943966683
+lr: 0.1 node: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0259583502242
+lr: 0.01 node: 3 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0262910704978
+lr: 0.1 node: 7 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0264084760922
+lr: 0.1 node: 2 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0265208342527
+lr: 0.01 node: 3 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0265970717812
+lr: 0.001 node: 3 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0267028834346
+lr: 0.1 node: 2 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.02677409693
+lr: 0.001 node: 4 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0268271273298
+lr: 0.01 node: 3 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0270180561559
+lr: 0.001 node: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0272787817358
+lr: 0.001 node: 2 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0274694567697
+lr: 0.001 node: 8 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.027569428093
+lr: 0.1 node: 3 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0276809541363
+lr: 0.01 node: 7 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0277552218467
+lr: 0.1 node: 2 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0278759192772
+lr: 0.01 node: 4 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0280422627842
+lr: 0.001 node: 3 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0280773478685
+lr: 0.1 node: 1 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0281631126205
+lr: 0.001 node: 7 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0281752365338
+lr: 0.01 node: 8 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0282728424361
+lr: 0.01 node: 5 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0285190366208
+lr: 0.01 node: 5 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0285664775112
+lr: 0.01 node: 4 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0285949951262
+lr: 0.1 node: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0289499374155
+lr: 0.01 node: 4 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0290774224242
+lr: 0.01 node: 7 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0290987440056
+lr: 0.01 node: 8 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.029416320779
+lr: 0.1 node: 3 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.029769190904
+lr: 0.01 node: 7 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0299962707558
+lr: 0.001 node: 1 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0301048471672
+lr: 0.01 node: 4 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0302846219152
+lr: 0.001 node: 6 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0305947852484
+lr: 0.01 node: 7 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.030761695012
+lr: 0.1 node: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0308280342223
+lr: 0.01 node: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0308344280151
+lr: 0.01 node: 5 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0311193740739
+lr: 0.1 node: 2 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0314552557739
+lr: 0.001 node: 7 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0315906117434
+lr: 0.001 node: 2 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0316114190293
+lr: 0.01 node: 6 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0320488224763
+lr: 0.001 node: 7 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0321595585948
+lr: 0.01 node: 6 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0321913874632
+lr: 0.001 node: 8 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0322326833291
+lr: 0.01 node: 3 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0326318291557
+lr: 0.001 node: 5 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0329048011123
+lr: 0.1 node: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0329583954923
+lr: 0.001 node: 3 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0331020255736
+lr: 0.1 node: 7 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0331376611197
+lr: 0.01 node: 6 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0336250059691
+lr: 0.01 node: 4 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.033729460781
+lr: 0.001 node: 7 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0337419075833
+lr: 0.01 node: 2 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0337818693532
+lr: 0.001 node: 7 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0343755086158
+lr: 0.001 node: 4 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0344072874096
+lr: 0.001 node: 8 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0345726118445
+lr: 0.001 node: 6 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0347465569955
+lr: 0.01 node: 1 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0348142205952
+lr: 0.01 node: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0349236502433
+lr: 0.01 node: 8 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0349777470006
+lr: 0.01 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0351354553517
+lr: 0.1 node: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0353527371385
+lr: 0.01 node: 1 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0356899103369
+lr: 0.001 node: 1 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0359099188544
+lr: 0.001 node: 2 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0359818971559
+lr: 0.01 node: 4 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0365754700439
+lr: 0.001 node: 8 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0367360063499
+lr: 0.01 node: 4 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0371582325116
+lr: 0.1 node: 2 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0373045653699
+lr: 0.1 node: 6 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0377655859196
+lr: 0.01 node: 5 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0380905594757
+lr: 0.001 node: 8 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0385180604206
+lr: 0.001 node: 6 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0388768512987
+lr: 0.1 node: 1 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.039086701845
+lr: 0.1 node: 6 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0393475247005
+lr: 0.01 node: 2 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0394400225779
+lr: 0.001 node: 2 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0395744377691
+lr: 0.01 node: 3 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0396059162376
+lr: 0.001 node: 7 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0400187698167
+lr: 0.1 node: 5 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0402421625359
+lr: 0.001 node: 6 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0403363365767
+lr: 0.001 node: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0404485563136
+lr: 0.1 node: 8 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0407434039562
+lr: 0.01 node: 4 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0407486336413
+lr: 0.001 node: 6 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0410984590802
+lr: 0.001 node: 5 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0411978871367
+lr: 0.01 node: 3 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0413859602651
+lr: 0.001 node: 4 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.041452613476
+lr: 0.1 node: 4 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0417911352624
+lr: 0.1 node: 5 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0424805849765
+lr: 0.01 node: 6 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.042529420855
+lr: 0.01 node: 1 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0426858768653
+lr: 0.01 node: 1 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0427483980797
+lr: 0.001 node: 2 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0427489496159
+lr: 0.001 node: 3 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0431000011066
+lr: 0.1 node: 7 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0435060714393
+lr: 0.001 node: 5 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0436425347951
+lr: 0.1 node: 2 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0437360616998
+lr: 0.001 node: 7 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0441948103843
+lr: 0.1 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0445560226787
+lr: 0.01 node: 8 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0446644597937
+lr: 0.01 node: 1 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0447689138608
+lr: 0.001 node: 5 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0452393373106
+lr: 0.001 node: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0453221101478
+lr: 0.001 node: 3 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0454739459046
+lr: 0.001 node: 4 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0456716043886
+lr: 0.01 node: 2 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0458509456937
+lr: 0.001 node: 5 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0459027505216
+lr: 0.001 node: 1 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0460690472156
+lr: 0.01 node: 2 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0460728472575
+lr: 0.001 node: 4 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0463232306397
+lr: 0.1 node: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0463822172727
+lr: 0.1 node: 1 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0464392804926
+lr: 0.01 node: 2 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0470082678783
+lr: 0.1 node: 6 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0476258645128
+lr: 0.001 node: 3 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0482632029921
+lr: 0.001 node: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0483884008922
+lr: 0.1 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0491911262517
+lr: 0.001 node: 7 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0492646972978
+lr: 0.001 node: 8 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0493542300863
+lr: 0.001 node: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0507258193195
+lr: 0.01 node: 4 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0512496327767
+lr: 0.01 node: 7 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0518935884378
+lr: 0.001 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0522921730235
+lr: 0.001 node: 5 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0523713679085
+lr: 0.001 node: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.052564533693
+lr: 0.01 node: 8 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0532304184306
+lr: 0.001 node: 6 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0538694594974
+lr: 0.01 node: 1 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0540298406358
+lr: 0.1 node: 3 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0544935395845
+lr: 0.001 node: 6 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0549728877562
+lr: 0.01 node: 8 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0552946669654
+lr: 0.01 node: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0558259257779
+lr: 0.01 node: 3 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.055856281648
+lr: 0.1 node: 8 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.055940534709
+lr: 0.01 node: 5 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0564683470123
+lr: 0.001 node: 1 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0565075312719
+lr: 0.001 node: 2 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0568096004156
+lr: 0.1 node: 6 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0573917904473
+lr: 0.1 node: 8 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0575004074083
+lr: 0.001 node: 6 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0579338579567
+lr: 0.1 node: 4 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0583798104693
+lr: 0.001 node: 4 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0584320419967
+lr: 0.001 node: 6 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0587518801947
+lr: 0.1 node: 3 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0591002005742
+lr: 0.001 node: 8 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0592423303241
+lr: 0.1 node: 6 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0595831496109
+lr: 0.01 node: 3 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0597574718688
+lr: 0.1 node: 3 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0598476271774
+lr: 0.001 node: 8 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0604168509169
+lr: 0.001 node: 5 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0611034941412
+lr: 0.001 node: 3 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0612891541155
+lr: 0.001 node: 5 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.061581755899
+lr: 0.1 node: 3 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0616325297904
+lr: 0.1 node: 7 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0616898760192
+lr: 0.01 node: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0618064017504
+lr: 0.1 node: 4 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0618450422983
+lr: 0.001 node: 6 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0619810020798
+lr: 0.001 node: 4 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0622090719679
+lr: 0.001 node: 2 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0624621497226
+lr: 0.01 node: 1 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0625730461296
+lr: 0.001 node: 3 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0626945964819
+lr: 0.1 node: 7 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0632394282253
+lr: 0.001 node: 4 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0634078026928
+lr: 0.01 node: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0634393972133
+lr: 0.1 node: 3 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0635887372865
+lr: 0.1 node: 5 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0638742762811
+lr: 0.1 node: 8 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0639399265121
+lr: 0.1 node: 4 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0641622243824
+lr: 0.1 node: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0644958072735
+lr: 0.1 node: 6 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0656983393023
+lr: 0.1 node: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0661709463674
+lr: 0.01 node: 7 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0663353674466
+lr: 0.001 node: 4 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0666234817792
+lr: 0.001 node: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0667501792469
+lr: 0.001 node: 3 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0673870877934
+lr: 0.1 node: 3 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0676689276021
+lr: 0.001 node: 3 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0680893438422
+lr: 0.1 node: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.069007168941
+lr: 0.1 node: 8 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0690539969153
+lr: 0.001 node: 4 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0692558059907
+lr: 0.001 node: 5 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0706732243661
+lr: 0.1 node: 4 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0708052901848
+lr: 0.1 node: 5 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0708881792885
+lr: 0.1 node: 2 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0716759941122
+lr: 0.1 node: 4 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0719098565547
+lr: 0.1 node: 2 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0723159416378
+lr: 0.001 node: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0724309055246
+lr: 0.1 node: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0725854188148
+lr: 0.01 node: 2 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0728385699977
+lr: 0.1 node: 5 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0730912242268
+lr: 0.1 node: 3 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0731286138232
+lr: 0.1 node: 8 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0736099901935
+lr: 0.01 node: 7 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0737332267639
+lr: 0.001 node: 8 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0737719015519
+lr: 0.001 node: 3 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0740360131689
+lr: 0.01 node: 8 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0740395532254
+lr: 0.001 node: 7 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0742867682841
+lr: 0.1 node: 4 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0743759536314
+lr: 0.01 node: 5 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0744101493187
+lr: 0.01 node: 6 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0745400065279
+lr: 0.01 node: 7 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0747107861758
+lr: 0.1 node: 2 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0749245483306
+lr: 0.01 node: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0750137216186
+lr: 0.001 node: 8 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0754200289842
+lr: 0.001 node: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0759979730742
+lr: 0.1 node: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0760653203148
+lr: 0.01 node: 8 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0762229411321
+lr: 0.001 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0772830836859
+lr: 0.1 node: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0773464840795
+lr: 0.01 node: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0779340591898
+lr: 0.1 node: 1 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0782621381884
+lr: 0.001 node: 5 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0784791408931
+lr: 0.001 node: 4 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0786290919592
+lr: 0.1 node: 7 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0787492599591
+lr: 0.1 node: 5 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0789979079738
+lr: 0.01 node: 2 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0793684935678
+lr: 0.001 node: 5 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0794522098836
+lr: 0.01 node: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0796926062525
+lr: 0.1 node: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0801758118632
+lr: 0.1 node: 5 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0802348493631
+lr: 0.1 node: 5 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0803105974042
+lr: 0.1 node: 5 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0803945867005
+lr: 0.1 node: 8 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0804913895458
+lr: 0.01 node: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0805395420423
+lr: 0.01 node: 2 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0808764377406
+lr: 0.1 node: 7 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0809766561603
+lr: 0.001 node: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.081150849721
+lr: 0.001 node: 1 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0817754815462
+lr: 0.1 node: 4 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.081804419809
+lr: 0.01 node: 4 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0818387023888
+lr: 0.1 node: 2 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0819157097515
+lr: 0.1 node: 1 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0819310805242
+lr: 0.001 node: 7 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0819619011268
+lr: 0.001 node: 2 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0819919067144
+lr: 0.01 node: 4 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.082075469652
+lr: 0.01 node: 1 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0820843698391
+lr: 0.1 node: 3 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0820862144309
+lr: 0.1 node: 2 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.082086724407
+lr: 0.1 node: 2 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0820875277397
+lr: 0.1 node: 1 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0820884579937
+lr: 0.1 node: 1 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0820933438225
+lr: 0.1 node: 3 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0820942914031
+lr: 0.1 node: 6 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0820945318999
+lr: 0.1 node: 5 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0820954907609
+lr: 0.1 node: 2 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0820955155162
+lr: 0.1 node: 2 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.082096765815
+lr: 0.1 node: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0820976291532
+lr: 0.1 node: 2 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0820989747258
+lr: 0.1 node: 1 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0821006126075
+lr: 0.1 node: 5 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0821050253015
+lr: 0.1 node: 4 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0821064914886
+lr: 0.1 node: 5 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0821101235762
+lr: 0.1 node: 2 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0821108172368
+lr: 0.1 node: 1 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0821215755156
+lr: 0.1 node: 2 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0821230653142
+lr: 0.01 node: 1 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0821241910215
+lr: 0.1 node: 4 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0821274458095
+lr: 0.1 node: 1 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.082129639313
+lr: 0.01 node: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0821306111683
+lr: 0.01 node: 4 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0821315270084
+lr: 0.01 node: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0821327696817
+lr: 0.01 node: 2 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0821369627835
+lr: 0.1 node: 1 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0821387573476
+lr: 0.1 node: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0821590405276
+lr: 0.001 node: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0821702550058
+lr: 0.1 node: 1 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0821714848995
+lr: 0.1 node: 2 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0821721913366
+lr: 0.1 node: 2 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.082174292902
+lr: 0.1 node: 1 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0821756669399
+lr: 0.01 node: 1 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0821767591848
+lr: 0.001 node: 1 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0821878866181
+lr: 0.01 node: 2 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0822194725493
+lr: 0.001 node: 8 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.082223773859
+lr: 0.1 node: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0822273951229
+lr: 0.001 node: 2 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0822462957117
+lr: 0.001 node: 2 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0822671570046
+lr: 0.1 node: 1 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0823100862039
+lr: 0.1 node: 1 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.082324939306
+lr: 0.001 node: 2 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0823353749527
+lr: 0.001 node: 1 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0823365038773
+lr: 0.001 node: 1 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0823648474988
+lr: 0.001 node: 1 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.082375230351
+lr: 0.001 node: 5 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0823918848817
+lr: 0.001 node: 2 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0824276866911
+lr: 0.1 node: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0824382610502
+lr: 0.01 node: 2 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0824836100945
+lr: 0.001 node: 2 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0825035857189
+lr: 0.001 node: 2 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0825227510641
+lr: 0.01 node: 5 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0825908166482
+lr: 0.001 node: 1 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0827432163922
+lr: 0.1 node: 1 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0827777098951
+lr: 0.1 node: 1 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0827916115093
+lr: 0.01 node: 1 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0829561681183
+lr: 0.01 node: 1 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0829740900038
+lr: 0.01 node: 2 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0830302741504
+lr: 0.1 node: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0830670764058
+lr: 0.01 node: 5 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0832756521612
+lr: 0.01 node: 2 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0833924760227
+lr: 0.001 node: 1 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0835044822174
+lr: 0.1 node: 1 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0835559820229
+lr: 0.001 node: 1 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0835761477671
+lr: 0.001 node: 2 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0836012642751
+lr: 0.1 node: 4 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0836965249841
+lr: 0.001 node: 1 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0838500333613
+lr: 0.01 node: 1 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0839481084053
+lr: 0.1 node: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0840978945399
+lr: 0.001 node: 3 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0841824342696
+lr: 0.001 node: 3 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0843010546527
+lr: 0.1 node: 4 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0843367236375
+lr: 0.001 node: 4 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0843647296175
+lr: 0.001 node: 5 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0845739063222
+lr: 0.001 node: 2 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0848197901127
+lr: 0.1 node: 7 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0848366544233
+lr: 0.01 node: 5 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0851252954972
+lr: 0.1 node: 1 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0854186349998
+lr: 0.1 node: 7 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.085467022487
+lr: 0.01 node: 2 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0854716841621
+lr: 0.01 node: 5 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0856124003449
+lr: 0.01 node: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0857960018024
+lr: 0.01 node: 5 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0858090113401
+lr: 0.1 node: 4 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0858090354159
+lr: 0.01 node: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0858524826312
+lr: 0.1 node: 6 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0861459288865
+lr: 0.001 node: 6 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0862009597632
+lr: 0.01 node: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0869026413894
+lr: 0.01 node: 4 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0869031921967
+lr: 0.1 node: 1 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.086987571193
+lr: 0.01 node: 7 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0869883722772
+lr: 0.1 node: 7 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0870465190398
+lr: 0.1 node: 7 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0874509381775
+lr: 0.1 node: 2 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.08764445698
+lr: 0.001 node: 6 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0878743539541
+lr: 0.01 node: 2 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0884336655564
+lr: 0.01 node: 3 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0884735334453
+lr: 0.001 node: 2 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0889028327566
+lr: 0.1 node: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0890169761419
+lr: 0.01 node: 8 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0891383942001
+lr: 0.001 node: 1 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.089245399998
+lr: 0.1 node: 2 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0892599749687
+lr: 0.001 node: 1 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0894236445153
+lr: 0.01 node: 2 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0897015614011
+lr: 0.01 node: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0897341273605
+lr: 0.1 node: 3 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0899319793818
+lr: 0.001 node: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.090041554071
+lr: 0.01 node: 3 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0901210649613
+lr: 0.01 node: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0904254968823
+lr: 0.1 node: 2 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0905662411403
+lr: 0.1 node: 1 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0906917157155
+lr: 0.1 node: 8 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.0907407515201
+lr: 0.1 node: 1 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0907734531798
+lr: 0.01 node: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0909429561327
+lr: 0.1 node: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0911078802878
+lr: 0.1 node: 2 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0911789966846
+lr: 0.001 node: 6 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0912132287494
+lr: 0.001 node: 8 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0915976884371
+lr: 0.001 node: 4 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0917753515316
+lr: 0.001 node: 3 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0918280491098
+lr: 0.1 node: 6 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0920483406108
+lr: 0.1 node: 6 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0921781506434
+lr: 0.001 node: 1 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0933958195089
+lr: 0.1 node: 6 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0934244240914
+lr: 0.1 node: 5 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.093467257132
+lr: 0.1 node: 6 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0940486626205
+lr: 0.1 node: 2 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0940779322917
+lr: 0.001 node: 7 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0945758252027
+lr: 0.001 node: 2 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.094725414076
+lr: 0.001 node: 1 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.0947300557963
+lr: 0.1 node: 4 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0947809954626
+lr: 0.001 node: 2 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0948342391762
+lr: 0.001 node: 1 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0948600985543
+lr: 0.01 node: 4 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.0953400166809
+lr: 0.001 node: 4 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.0959926738512
+lr: 0.01 node: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.0960611904348
+lr: 0.1 node: 1 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0974710298014
+lr: 0.1 node: 2 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.0975649808717
+lr: 0.001 node: 7 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.0978561722712
+lr: 0.1 node: 4 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.0985342303513
+lr: 0.01 node: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.0992827652554
+lr: 0.01 node: 4 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.100412099158
+lr: 0.01 node: 7 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.10089251101
+lr: 0.01 node: 1 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.101626479392
+lr: 0.1 node: 3 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.101866858933
+lr: 0.1 node: 5 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.101938861515
+lr: 0.1 node: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.10196156631
+lr: 0.001 node: 2 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.102469382377
+lr: 0.01 node: 1 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.103909231462
+lr: 0.01 node: 3 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.104359193783
+lr: 0.01 node: 2 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.104405321977
+lr: 0.1 node: 2 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.105085248788
+lr: 0.01 node: 3 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.105207817473
+lr: 0.1 node: 8 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.105881162679
+lr: 0.01 node: 4 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.10670696986
+lr: 0.01 node: 8 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.106871141784
+lr: 0.01 node: 6 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.106909648338
+lr: 0.01 node: 4 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.106942974818
+lr: 0.01 node: 2 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.106983849556
+lr: 0.001 node: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.107207667916
+lr: 0.1 node: 7 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.107521243718
+lr: 0.1 node: 3 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.107568630225
+lr: 0.1 node: 2 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.107812190456
+lr: 0.01 node: 5 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.1082981614
+lr: 0.01 node: 2 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.109807491845
+lr: 0.1 node: 7 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.110105695618
+lr: 0.01 node: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.110899603835
+lr: 0.1 node: 2 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.111070286397
+lr: 0.001 node: 7 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.111324514204
+lr: 0.001 node: 8 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.111755722212
+lr: 0.1 node: 8 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.11185352879
+lr: 0.001 node: 4 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.112177722778
+lr: 0.001 node: 5 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.112954724366
+lr: 0.001 node: 3 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.113044051884
+lr: 0.1 node: 5 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.113766778162
+lr: 0.001 node: 7 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.11538886712
+lr: 0.1 node: 2 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.116516098447
+lr: 0.1 node: 7 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.116516923802
+lr: 0.1 node: 5 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.116542418758
+lr: 0.1 node: 2 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.116824584634
+lr: 0.01 node: 1 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.117148421987
+lr: 0.1 node: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.117584548386
+lr: 0.01 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.11772355724
+lr: 0.1 node: 7 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.118241276059
+lr: 0.01 node: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.120224438382
+lr: 0.001 node: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.120402703102
+lr: 0.01 node: 1 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.120751112989
+lr: 0.001 node: 4 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.121291226162
+lr: 0.001 node: 5 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.121673695344
+lr: 0.001 node: 5 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.123416014709
+lr: 0.01 node: 5 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.123548126863
+lr: 0.01 node: 3 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.124053187142
+lr: 0.01 node: 5 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.124481277833
+lr: 0.1 node: 3 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.124779935081
+lr: 0.001 node: 5 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.12481996392
+lr: 0.001 node: 8 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.125686662205
+lr: 0.1 node: 6 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.12576633252
+lr: 0.01 node: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.125954142001
+lr: 0.001 node: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.126363464151
+lr: 0.001 node: 5 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.126639726141
+lr: 0.01 node: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.126792658889
+lr: 0.1 node: 2 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.128457055547
+lr: 0.001 node: 8 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.130457417684
+lr: 0.001 node: 5 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.131266080972
+lr: 0.01 node: 4 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.131859024066
+lr: 0.1 node: 8 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.133098561595
+lr: 0.01 node: 2 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.13359472023
+lr: 0.01 node: 1 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.134645330348
+lr: 0.001 node: 4 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.136223580831
+lr: 0.01 node: 5 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.136585427326
+lr: 0.01 node: 3 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.136615332494
+lr: 0.1 node: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.136625140091
+lr: 0.01 node: 1 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.136673431036
+lr: 0.01 node: 8 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.136780125941
+lr: 0.01 node: 2 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.137597376857
+lr: 0.01 node: 3 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: constant with MSE: 0.138932829547
+lr: 0.01 node: 2 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.139885025031
+lr: 0.001 node: 5 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.140098775081
+lr: 0.01 node: 4 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.140141525055
+lr: 0.01 node: 3 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.142334504853
+lr: 0.001 node: 6 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.142859173361
+lr: 0.01 node: 6 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.144439024769
+lr: 0.01 node: 4 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.146656369301
+lr: 0.1 node: 1 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.147062576582
+lr: 0.001 node: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.147895785265
+lr: 0.01 node: 7 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.148128285387
+lr: 0.01 node: 7 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.148392172801
+lr: 0.01 node: 5 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.148998367203
+lr: 0.1 node: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.149059978172
+lr: 0.001 node: 7 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: constant with MSE: 0.149246774645
+lr: 0.1 node: 1 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.151223461972
+lr: 0.01 node: 7 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.15127682576
+lr: 0.001 node: 1 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.153577459995
+lr: 0.01 node: 7 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.155070612329
+lr: 0.01 node: 1 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: constant with MSE: 0.156683309463
+lr: 0.001 node: 8 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.156803829524
+lr: 0.001 node: 5 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.160147857461
+lr: 0.01 node: 8 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.160839840091
+lr: 0.1 node: 1 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.161673601798
+lr: 0.1 node: 3 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.162575075497
+lr: 0.01 node: 3 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.16404372753
+lr: 0.01 node: 8 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.164207260176
+lr: 0.01 node: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.164545942452
+lr: 0.01 node: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.164821325348
+lr: 0.01 node: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.165539132894
+lr: 0.01 node: 8 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.167554661213
+lr: 0.01 node: 1 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.169923953611
+lr: 0.1 node: 3 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.170026445864
+lr: 0.1 node: 4 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.171820601844
+lr: 0.1 node: 4 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.172688756703
+lr: 0.001 node: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.174711834047
+lr: 0.01 node: 8 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.174830407829
+lr: 0.1 node: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.1753141284
+lr: 0.001 node: 3 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.177608985822
+lr: 0.01 node: 3 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.178272605703
+lr: 0.1 node: 8 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.178979017932
+lr: 0.1 node: 1 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.180000904072
+lr: 0.01 node: 2 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.185509332897
+lr: 0.01 node: 2 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.186560694603
+lr: 0.01 node: 2 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.188365962045
+lr: 0.1 node: 8 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.188646996829
+lr: 0.1 node: 3 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.188804155617
+lr: 0.01 node: 8 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.189290926791
+lr: 0.01 node: 1 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.190741949355
+lr: 0.01 node: 1 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.1963849843
+lr: 0.001 node: 1 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.196947452574
+lr: 0.001 node: 5 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.197089182681
+lr: 0.001 node: 8 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.197141259449
+lr: 0.001 node: 1 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.200399766813
+lr: 0.1 node: 7 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.20441815463
+lr: 0.001 node: 1 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.210026621638
+lr: 0.01 node: 8 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.210991065104
+lr: 0.001 node: 4 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.214229088533
+lr: 0.001 node: 4 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.214699896325
+lr: 0.01 node: 4 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.215032940774
+lr: 0.01 node: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.215059778681
+lr: 0.001 node: 1 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.215920940045
+lr: 0.01 node: 6 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.217540175078
+lr: 0.01 node: 3 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.218209211035
+lr: 0.01 node: 5 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.220145946234
+lr: 0.001 node: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.224988407642
+lr: 0.001 node: 1 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.226233260531
+lr: 0.001 node: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.226676248801
+lr: 0.1 node: 1 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.228328008168
+lr: 0.1 node: 1 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.229444327928
+lr: 0.001 node: 7 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.230877857777
+lr: 0.1 node: 1 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.238273609758
+lr: 0.01 node: 6 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.244548754376
+lr: 0.001 node: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.245394006854
+lr: 0.01 node: 1 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.252298689311
+lr: 0.1 node: 5 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.253138943342
+lr: 0.001 node: 8 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.258698705771
+lr: 0.01 node: 6 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.26278456885
+lr: 0.001 node: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.262975485094
+lr: 0.1 node: 2 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.263557960086
+lr: 0.001 node: 4 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.265836063268
+lr: 0.01 node: 6 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.270823726665
+lr: 0.001 node: 4 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.272338491248
+lr: 0.1 node: 2 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.272637018924
+lr: 0.001 node: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.27486902029
+lr: 0.01 node: 2 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.276400234548
+lr: 0.01 node: 6 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.277295112274
+lr: 0.001 node: 2 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.278419470963
+lr: 0.001 node: 7 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.280587600822
+lr: 0.001 node: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.28136462282
+lr: 0.001 node: 5 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.282098856111
+lr: 0.01 node: 7 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.283165295497
+lr: 0.001 node: 7 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.295426375732
+lr: 0.01 node: 3 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.308581015817
+lr: 0.001 node: 6 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.308926705691
+lr: 0.001 node: 8 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.316214998137
+lr: 0.001 node: 5 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.319241137679
+lr: 0.001 node: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.329124699135
+lr: 0.001 node: 7 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.332594939954
+lr: 0.001 node: 6 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.333623678072
+lr: 0.01 node: 1 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.340908842173
+lr: 0.01 node: 6 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.341240347417
+lr: 0.01 node: 4 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.354139005673
+lr: 0.01 node: 7 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.357923219934
+lr: 0.001 node: 1 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.373576847344
+lr: 0.001 node: 3 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.376442139872
+lr: 0.01 node: 1 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.376958320567
+lr: 0.001 node: 3 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.379171646483
+lr: 0.001 node: 7 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.392670795709
+lr: 0.01 node: 1 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.392787549126
+lr: 0.01 node: 2 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.394587105525
+lr: 0.001 node: 6 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.395829784115
+lr: 0.001 node: 8 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.405334218307
+lr: 0.01 node: 2 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.405712670809
+lr: 0.001 node: 6 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.409832394508
+lr: 0.001 node: 2 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.413115440482
+lr: 0.01 node: 6 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.422961067877
+lr: 0.001 node: 2 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.432977431529
+lr: 0.01 node: 7 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.435849702332
+lr: 0.001 node: 7 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.438455961651
+lr: 0.01 node: 4 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.451624406002
+lr: 0.001 node: 3 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.459438083149
+lr: 0.01 node: 3 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.466950458401
+lr: 0.01 node: 1 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.477042357437
+lr: 0.01 node: 5 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.47717838001
+lr: 0.01 node: 6 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.480587540377
+lr: 0.01 node: 7 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.490128305759
+lr: 0.001 node: 2 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.496427450745
+lr: 0.001 node: 4 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.497456371899
+lr: 0.01 node: 5 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.502348682318
+lr: 0.001 node: 1 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.519471797205
+lr: 0.01 node: 4 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.537439178851
+lr: 0.001 node: 8 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.544825084593
+lr: 0.001 node: 3 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.556065632864
+lr: 0.001 node: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.562347393158
+lr: 0.01 node: 7 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.569447369759
+lr: 0.01 node: 6 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.582385907608
+lr: 0.01 node: 5 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.584235385921
+lr: 0.01 node: 1 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.599565273979
+lr: 0.01 node: 5 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.60766316604
+lr: 0.01 node: 2 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.609792097491
+lr: 0.001 node: 2 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.614406125327
+lr: 0.001 node: 3 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.615680603933
+lr: 0.001 node: 8 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.637920557314
+lr: 0.001 node: 3 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.67195073895
+lr: 0.001 node: 3 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.691372102904
+lr: 0.001 node: 2 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.709567522635
+lr: 0.001 node: 8 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.711735852859
+lr: 0.01 node: 8 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.718062745837
+lr: 0.001 node: 1 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.737270930642
+lr: 0.001 node: 8 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.738130053525
+lr: 0.001 node: 2 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.74022519691
+lr: 0.001 node: 3 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.742854442267
+lr: 0.001 node: 4 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.74379145317
+lr: 0.01 node: 5 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.749258208769
+lr: 0.001 node: 2 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.801943670676
+lr: 0.001 node: 5 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.808793062348
+lr: 0.001 node: 1 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.813064593918
+lr: 0.01 node: 2 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.814438827671
+lr: 0.001 node: 7 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 0.84785219852
+lr: 0.001 node: 5 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 0.898985731072
+lr: 0.001 node: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 0.929952176299
+lr: 0.01 node: 8 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.933374329173
+lr: 0.01 node: 4 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 0.941251066445
+lr: 0.001 node: 7 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 0.953967788896
+lr: 0.001 node: 5 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 0.962561430432
+lr: 0.001 node: 4 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 1.02411173155
+lr: 0.01 node: 2 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 1.07308708093
+lr: 0.001 node: 6 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 1.08799448531
+lr: 0.01 node: 4 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 1.11015466373
+lr: 0.001 node: 8 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 1.11818563448
+lr: 0.001 node: 7 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 1.14035539167
+lr: 0.001 node: 3 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 1.14360575934
+lr: 0.001 node: 2 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 1.16216975281
+lr: 0.001 node: 8 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 1.19670097773
+lr: 0.001 node: 2 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 1.1991670826
+lr: 0.001 node: 3 momentum: 0.5 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 1.23109208395
+lr: 0.01 node: 2 momentum: 0.5 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 1.24514771415
+lr: 0.01 node: 4 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 1.30279612879
+lr: 0.001 node: 6 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 1.30552725741
+lr: 0.001 node: 3 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 1.32246048863
+lr: 0.01 node: 3 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 1.3780330734
+lr: 0.001 node: 7 momentum: 0.5 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 1.40108653727
+lr: 0.001 node: 1 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 1.40174705606
+lr: 0.01 node: 3 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 1.40262385512
+lr: 0.001 node: 2 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 1.44101065645
+lr: 0.001 node: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 1.44312833365
+lr: 0.001 node: 1 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 1.60404912528
+lr: 0.001 node: 5 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 1.62867237044
+lr: 0.001 node: 4 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 1.65371314232
+lr: 0.001 node: 6 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 1.7048499654
+lr: 0.001 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 1.72687691423
+lr: 0.001 node: 2 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 1.7320139324
+lr: 0.001 node: 2 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 1.8074135129
+lr: 0.01 node: 3 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 1.81064599341
+lr: 0.1 node: 5 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 1.99442438349
+lr: 0.01 node: 3 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 1.99475549459
+lr: 0.1 node: 3 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 1.99865825931
+lr: 0.001 node: 5 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 2.11029605257
+lr: 0.001 node: 4 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 2.13828130997
+lr: 0.001 node: 7 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 2.18207750659
+lr: 0.001 node: 4 momentum: 0.7 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 2.34033365377
+lr: 0.001 node: 6 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 2.38637496573
+lr: 0.001 node: 7 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 2.38897998834
+lr: 0.001 node: 3 momentum: 0.5 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 2.59995694553
+lr: 0.001 node: 6 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 2.67799997382
+lr: 0.001 node: 7 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 2.76464843989
+lr: 0.001 node: 2 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 2.80328135382
+lr: 0.01 node: 6 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 2.94983058526
+lr: 0.1 node: 8 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 3.07082732315
+lr: 0.001 node: 6 momentum: 0.7 alpha: 0.001 early_stopping: True learning_rate: invscaling with MSE: 3.24323807402
+lr: 0.001 node: 6 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 3.34337661114
+lr: 0.001 node: 4 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 3.57823189796
+lr: 0.001 node: 1 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 3.58378404256
+lr: 0.01 node: 1 momentum: 0.9 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 3.93237346016
+lr: 0.001 node: 1 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 4.17591398503
+lr: 0.001 node: 2 momentum: 0.5 alpha: 1e-05 early_stopping: True learning_rate: invscaling with MSE: 4.40316687939
+lr: 0.001 node: 1 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 4.48114380207
+lr: 0.001 node: 8 momentum: 0.7 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 4.57868775792
+lr: 0.001 node: 4 momentum: 0.5 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 5.13753124547
+lr: 0.001 node: 1 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 5.18069212464
+lr: 0.001 node: 1 momentum: 0.7 alpha: 1e-05 early_stopping: False learning_rate: invscaling with MSE: 5.5442101979
+lr: 0.001 node: 1 momentum: 0.7 alpha: 0.0001 early_stopping: True learning_rate: invscaling with MSE: 6.81232402633
+lr: 0.01 node: 7 momentum: 0.9 alpha: 0.001 early_stopping: False learning_rate: invscaling with MSE: 7.20489462594
+lr: 0.1 node: 1 momentum: 0.9 alpha: 0.0001 early_stopping: False learning_rate: invscaling with MSE: 9.22865407977
+
+Best network on validation set: lr: 0.1 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant
+lr: 0.1 node: 6 momentum: 0.7 alpha: 1e-05 early_stopping: True learning_rate: constant on test set: 0.00437599632437
