@@ -1,8 +1,10 @@
 import numpy as np
 import math
+import copy
 
 class SingleLayerNN2():
-    def __init__(self, lr=0.1, nb_eboch=20, hidden_layer_size=10):
+    def __init__(self, lr=0.001, nb_eboch=1000, hidden_layer_size=2, batch_size=200):
+        self.batch_size = batch_size
         self.lr = lr
         self.nb_eboch = nb_eboch
         self.W = []
@@ -28,21 +30,40 @@ class SingleLayerNN2():
 
     def fit(self, X, Y):  # X = (len(X[0]) + 1, n)
         X = np.vstack([X, [1] * len(X[0])])
+        WHistory = []
+        eHistory = []
 
         self.W = np.reshape(np.random.normal(0, 1, self.hidden_layer_size * len(X)), (self.hidden_layer_size, len(X)))
         self.V = np.reshape(np.random.normal(0, 1, self.hidden_layer_size), (1, self.hidden_layer_size))
-        for step in range(self.nb_eboch):
 
-            Hstar = np.dot(self.W, X)  # size: (hls, len(X)) * (len(X), n) =(hls, n)
-            H = self.phi(Hstar)  # size: (hls, n)
-            Ostar = np.dot(self.V, H)  # size: (1, hls) * (hls, n) =(1, n)
-            O = self.phi(Ostar)  # size: (hls, len(X)) * (len(X), n) =(1, n)
-            deltaO = np.multiply((O - Y),self.phiPrime(Ostar))
-            deltaH = np.multiply(np.dot(self.V.T,deltaO),self.phiPrime(Hstar))
-            deltaW = - self.lr * np.dot(deltaH, X.T)
-            deltaV = - self.lr * np.dot(deltaO, H.T)
-            self.V += deltaV
-            self.W += deltaW
+        for step in range(self.nb_eboch):
+            p = np.random.permutation(len(X[0]))
+            X = X.T[p].T
+            Y = Y[p]
+            batchIndex_list = []
+            if (self.batch_size == -1):
+                batchIndex_list.append([0, len(X[0])])
+            else:
+                for i in range(int((len(X[0]) * 1.0) / self.batch_size)):
+                    batchIndex_list.append([i * self.batch_size, (i + 1) * self.batch_size])
+
+            for batchIndex in batchIndex_list:
+                start, end = batchIndex
+                batch = X.T[start: end].T
+                Hstar = np.dot(self.W, batch)  # size: (hls, len(X)) * (len(X), n) =(hls, n)
+                H = self.phi(Hstar)  # size: (hls, n)
+                Ostar = np.dot(self.V, H)  # size: (1, hls) * (hls, n) =(1, n)
+                O = self.phi(Ostar)  # size: (hls, len(X)) * (len(X), n) =(1, n)
+                e = self.posneg(O) - Y.T[start:end].T
+                deltaO = np.multiply((O - Y.T[start:end].T),self.phiPrime(Ostar))
+                deltaH = np.multiply(np.dot(self.V.T, deltaO),self.phiPrime(Hstar))
+                deltaW = - self.lr * np.dot(deltaH, batch.T)
+                deltaV = - self.lr * np.dot(deltaO, H.T)
+                self.V += deltaV
+                self.W += deltaW
+                WHistory.append(copy.copy(self.W))
+                eHistory.append(np.mean(abs(e/2)))
+        return WHistory, eHistory
 
     def predict(self, X):
         X = np.vstack([X, [1] * len(X[0])])
