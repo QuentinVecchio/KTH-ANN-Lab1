@@ -12,7 +12,7 @@ class MultipleLayer():
         self.hidden_layer_size = hidden_layer_size
 
     def phi(self, x):
-        return 1.0 / (1.0 + np.exp(-x))
+        return 2.0 / (1.0 + np.exp(-x)) - 1.0
 
 
     def phiPrime(self,x):
@@ -56,6 +56,7 @@ class MultipleLayer():
                 Ostar = np.dot(self.V, H)  # size: (size Output, hls+bias) * (hls+bias, n) =(size Output, n)
                 O = self.phi(Ostar)  # size: (hls, len(X)) * (len(X), n) =(1, n)
                 e = self.posneg(O) - Y.T[start:end].T
+                # print(np.mean(O - Y.T[start:end].T))
                 deltaO = np.multiply((O - Y.T[start:end].T),self.phiPrime(Ostar))
                 deltaH = np.multiply(np.dot(self.V.T, deltaO),self.phiPrime(H))
                 deltaH = deltaH[:-1,:]# Remove Bias row
@@ -65,6 +66,7 @@ class MultipleLayer():
                 self.W += deltaW
                 WHistory.append(copy.copy(self.W))
                 eHistory.append(np.mean(abs(e/2.0)))
+                # print(np.mean(abs(e/2.0)))
 
         return WHistory, eHistory
 
