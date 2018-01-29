@@ -1,0 +1,480 @@
+Variance of the noise: 0.03
+Compute all networks, nb: 72
+Train new network 0
+Train new network 1
+Train new network 2
+Train new network 3
+Train new network 4
+Train new network 5
+Train new network 6
+Train new network 7
+Train new network 8
+Train new network 9
+Train new network 10
+Train new network 11
+Train new network 12
+Train new network 13
+Train new network 14
+Train new network 15
+Train new network 16
+Train new network 17
+Train new network 18
+Train new network 19
+Train new network 20
+Train new network 21
+Train new network 22
+Train new network 23
+Train new network 24
+Train new network 25
+Train new network 26
+Train new network 27
+Train new network 28
+Train new network 29
+Train new network 30
+Train new network 31
+Train new network 32
+Train new network 33
+Train new network 34
+Train new network 35
+Train new network 36
+Train new network 37
+Train new network 38
+Train new network 39
+Train new network 40
+Train new network 41
+Train new network 42
+Train new network 43
+Train new network 44
+Train new network 45
+Train new network 46
+Train new network 47
+Train new network 48
+Train new network 49
+Train new network 50
+Train new network 51
+Train new network 52
+Train new network 53
+Train new network 54
+Train new network 55
+Train new network 56
+Train new network 57
+Train new network 58
+Train new network 59
+Train new network 60
+Train new network 61
+Train new network 62
+Train new network 63
+Train new network 64
+Train new network 65
+Train new network 66
+Train new network 67
+Train new network 68
+Train new network 69
+Train new network 70
+Train new network 71
+Computation over
+
+MSE on the validation set:
+lr: 0.1 node1: 5 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.00486434321757
+lr: 0.1 node1: 6 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.00658753413315
+lr: 0.01 node1: 5 node2: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0068300303622
+lr: 0.1 node1: 6 node2: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.00729243733068
+lr: 0.01 node1: 6 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.00984442853412
+lr: 0.1 node1: 5 node2: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.00987179976633
+lr: 0.01 node1: 6 node2: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0103885665022
+lr: 0.01 node1: 6 node2: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.010498153939
+lr: 0.1 node1: 5 node2: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0107433321935
+lr: 0.1 node1: 6 node2: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0113322297197
+lr: 0.1 node1: 6 node2: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.011384988954
+lr: 0.01 node1: 6 node2: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0116889153084
+lr: 0.01 node1: 5 node2: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0118491678995
+lr: 0.01 node1: 6 node2: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0120817762489
+lr: 0.1 node1: 6 node2: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0123471634937
+lr: 0.1 node1: 6 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.01241070926
+lr: 0.1 node1: 5 node2: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0125184766368
+lr: 0.1 node1: 5 node2: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0125948896743
+lr: 0.01 node1: 5 node2: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0126670026991
+lr: 0.1 node1: 5 node2: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0141822081911
+lr: 0.01 node1: 5 node2: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0151378008055
+lr: 0.01 node1: 6 node2: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0151591909107
+lr: 0.1 node1: 6 node2: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0153041374774
+lr: 0.1 node1: 5 node2: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0158751790503
+lr: 0.1 node1: 5 node2: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0158838306381
+lr: 0.01 node1: 5 node2: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0173660987327
+lr: 0.01 node1: 5 node2: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0183764050081
+lr: 0.01 node1: 6 node2: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0185703406632
+lr: 0.01 node1: 5 node2: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0190081909868
+lr: 0.1 node1: 6 node2: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0208109188649
+lr: 0.1 node1: 6 node2: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0220612440177
+lr: 0.01 node1: 6 node2: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0220833745613
+lr: 0.1 node1: 5 node2: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0221923395023
+lr: 0.1 node1: 6 node2: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0233753247237
+lr: 0.01 node1: 5 node2: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0270572756729
+lr: 0.01 node1: 5 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0332358787878
+lr: 0.01 node1: 5 node2: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0441281054265
+lr: 0.01 node1: 5 node2: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0564175193737
+lr: 0.1 node1: 6 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0607182491526
+lr: 0.01 node1: 6 node2: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0663727366073
+lr: 0.1 node1: 6 node2: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.068850844515
+lr: 0.01 node1: 6 node2: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0741220805894
+lr: 0.01 node1: 5 node2: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0801910814246
+lr: 0.01 node1: 6 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0823169684069
+lr: 0.01 node1: 6 node2: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0828139477252
+lr: 0.1 node1: 5 node2: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0835161059515
+lr: 0.01 node1: 5 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0847932589376
+lr: 0.1 node1: 5 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0855532769014
+lr: 0.1 node1: 5 node2: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0856141091079
+lr: 0.1 node1: 5 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0856415954809
+lr: 0.1 node1: 5 node2: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0857118962633
+lr: 0.1 node1: 6 node2: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0858595582721
+lr: 0.01 node1: 5 node2: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0858746412128
+lr: 0.01 node1: 6 node2: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0860131514322
+lr: 0.1 node1: 6 node2: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0861826652497
+lr: 0.01 node1: 6 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0862762723329
+lr: 0.1 node1: 6 node2: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0863364105414
+lr: 0.1 node1: 6 node2: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0863406542601
+lr: 0.1 node1: 5 node2: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0867705183433
+lr: 0.01 node1: 6 node2: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0870225073616
+lr: 0.1 node1: 6 node2: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0891479264207
+lr: 0.01 node1: 5 node2: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0894599376077
+lr: 0.1 node1: 5 node2: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0896111145138
+lr: 0.01 node1: 5 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0899629949473
+lr: 0.01 node1: 5 node2: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0903499521786
+lr: 0.1 node1: 6 node2: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0916220189661
+lr: 0.1 node1: 5 node2: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0921557618566
+lr: 0.1 node1: 5 node2: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0950693763602
+lr: 0.01 node1: 5 node2: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.102154283116
+lr: 0.01 node1: 6 node2: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.106717401383
+lr: 0.01 node1: 6 node2: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.109724652298
+lr: 0.01 node1: 6 node2: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.139775395153
+
+Best network on validation set: lr: 0.1 node1: 5 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant
+lr: 0.1 node1: 5 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant on test set: 0.00539132072962
+
+Use best 1 hidden layer network
+lr: 0.1 node1: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant on test set: 0.10024455849
+
+
+
+
+
+Variance of the noise: 0.09
+Compute all networks, nb: 72
+Train new network 0
+Train new network 1
+Train new network 2
+Train new network 3
+Train new network 4
+Train new network 5
+Train new network 6
+Train new network 7
+Train new network 8
+Train new network 9
+Train new network 10
+Train new network 11
+Train new network 12
+Train new network 13
+Train new network 14
+Train new network 15
+Train new network 16
+Train new network 17
+Train new network 18
+Train new network 19
+Train new network 20
+Train new network 21
+Train new network 22
+Train new network 23
+Train new network 24
+Train new network 25
+Train new network 26
+Train new network 27
+Train new network 28
+Train new network 29
+Train new network 30
+Train new network 31
+Train new network 32
+Train new network 33
+Train new network 34
+Train new network 35
+Train new network 36
+Train new network 37
+Train new network 38
+Train new network 39
+Train new network 40
+Train new network 41
+Train new network 42
+Train new network 43
+Train new network 44
+Train new network 45
+Train new network 46
+Train new network 47
+Train new network 48
+Train new network 49
+Train new network 50
+Train new network 51
+Train new network 52
+Train new network 53
+Train new network 54
+Train new network 55
+Train new network 56
+Train new network 57
+Train new network 58
+Train new network 59
+Train new network 60
+Train new network 61
+Train new network 62
+Train new network 63
+Train new network 64
+Train new network 65
+Train new network 66
+Train new network 67
+Train new network 68
+Train new network 69
+Train new network 70
+Train new network 71
+Computation over
+
+MSE on the validation set:
+lr: 0.1 node1: 6 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0207735781387
+lr: 0.1 node1: 5 node2: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0245748414386
+lr: 0.01 node1: 6 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0247164630498
+lr: 0.1 node1: 5 node2: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0254703005579
+lr: 0.01 node1: 5 node2: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0255766091608
+lr: 0.1 node1: 6 node2: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.026433558187
+lr: 0.1 node1: 6 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0271116628085
+lr: 0.1 node1: 6 node2: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0280692562339
+lr: 0.1 node1: 5 node2: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0284817006227
+lr: 0.01 node1: 6 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0286521635918
+lr: 0.01 node1: 6 node2: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0292528626246
+lr: 0.01 node1: 5 node2: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0292688370828
+lr: 0.1 node1: 6 node2: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0293701379287
+lr: 0.1 node1: 5 node2: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0294814880962
+lr: 0.01 node1: 6 node2: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.029496761575
+lr: 0.1 node1: 6 node2: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0295482354422
+lr: 0.1 node1: 6 node2: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0300923008038
+lr: 0.01 node1: 5 node2: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0304540038601
+lr: 0.1 node1: 5 node2: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0313233345783
+lr: 0.01 node1: 6 node2: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0317918941264
+lr: 0.1 node1: 6 node2: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0320683622562
+lr: 0.01 node1: 6 node2: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0322116658581
+lr: 0.01 node1: 6 node2: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0325684771091
+lr: 0.01 node1: 5 node2: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0331597599984
+lr: 0.1 node1: 6 node2: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0334817177853
+lr: 0.01 node1: 5 node2: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0336339614726
+lr: 0.01 node1: 5 node2: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0337147869984
+lr: 0.01 node1: 6 node2: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0339760558708
+lr: 0.01 node1: 6 node2: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0342014448289
+lr: 0.01 node1: 6 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0342413737794
+lr: 0.01 node1: 6 node2: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0343952476697
+lr: 0.1 node1: 5 node2: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0355657969416
+lr: 0.01 node1: 6 node2: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0359077260188
+lr: 0.01 node1: 5 node2: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0363940619133
+lr: 0.1 node1: 6 node2: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0365310258417
+lr: 0.1 node1: 5 node2: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0365641786114
+lr: 0.1 node1: 6 node2: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0367002239046
+lr: 0.01 node1: 6 node2: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0377029314017
+lr: 0.01 node1: 6 node2: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0602589843317
+lr: 0.1 node1: 6 node2: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0674986708141
+lr: 0.01 node1: 5 node2: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0717064520936
+lr: 0.1 node1: 5 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0724641095303
+lr: 0.01 node1: 5 node2: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0746162039601
+lr: 0.1 node1: 6 node2: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0746897525701
+lr: 0.01 node1: 6 node2: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0797679481141
+lr: 0.01 node1: 5 node2: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0805335649556
+lr: 0.01 node1: 6 node2: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.084128301604
+lr: 0.01 node1: 5 node2: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0948406265514
+lr: 0.1 node1: 5 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.096176473101
+lr: 0.1 node1: 5 node2: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0964969411283
+lr: 0.1 node1: 5 node2: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0969664114406
+lr: 0.1 node1: 6 node2: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0973434534182
+lr: 0.1 node1: 6 node2: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0973635437688
+lr: 0.1 node1: 6 node2: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0977047016149
+lr: 0.1 node1: 5 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0977273594951
+lr: 0.01 node1: 5 node2: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0977532473773
+lr: 0.1 node1: 6 node2: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0982956579918
+lr: 0.1 node1: 5 node2: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0983578408188
+lr: 0.01 node1: 5 node2: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0987697543493
+lr: 0.1 node1: 5 node2: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0988077448966
+lr: 0.1 node1: 5 node2: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0994876253581
+lr: 0.1 node1: 5 node2: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.100461363655
+lr: 0.1 node1: 6 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.10188396102
+lr: 0.01 node1: 6 node2: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.102198740198
+lr: 0.1 node1: 5 node2: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.102400970397
+lr: 0.01 node1: 5 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.102417525773
+lr: 0.01 node1: 6 node2: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.103418686077
+lr: 0.01 node1: 5 node2: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.103446776365
+lr: 0.1 node1: 5 node2: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.103866244132
+lr: 0.01 node1: 5 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.107081326949
+lr: 0.01 node1: 5 node2: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.116474343602
+lr: 0.01 node1: 5 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.206342127697
+
+Best network on validation set: lr: 0.1 node1: 6 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant
+lr: 0.1 node1: 6 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant on test set: 0.0213956832338
+
+Use best 1 hidden layer network
+lr: 0.1 node1: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant on test set: 0.133142034424
+
+
+
+
+
+Variance of the noise: 0.18
+Compute all networks, nb: 72
+Train new network 0
+Train new network 1
+Train new network 2
+Train new network 3
+Train new network 4
+Train new network 5
+Train new network 6
+Train new network 7
+Train new network 8
+Train new network 9
+Train new network 10
+Train new network 11
+Train new network 12
+Train new network 13
+Train new network 14
+Train new network 15
+Train new network 16
+Train new network 17
+Train new network 18
+Train new network 19
+Train new network 20
+Train new network 21
+Train new network 22
+Train new network 23
+Train new network 24
+Train new network 25
+Train new network 26
+Train new network 27
+Train new network 28
+Train new network 29
+Train new network 30
+Train new network 31
+Train new network 32
+Train new network 33
+Train new network 34
+Train new network 35
+Train new network 36
+Train new network 37
+Train new network 38
+Train new network 39
+Train new network 40
+Train new network 41
+Train new network 42
+Train new network 43
+Train new network 44
+Train new network 45
+Train new network 46
+Train new network 47
+Train new network 48
+Train new network 49
+Train new network 50
+Train new network 51
+Train new network 52
+Train new network 53
+Train new network 54
+Train new network 55
+Train new network 56
+Train new network 57
+Train new network 58
+Train new network 59
+Train new network 60
+Train new network 61
+Train new network 62
+Train new network 63
+Train new network 64
+Train new network 65
+Train new network 66
+Train new network 67
+Train new network 68
+Train new network 69
+Train new network 70
+Train new network 71
+Computation over
+
+MSE on the validation set:
+lr: 0.01 node1: 6 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.062510648918
+lr: 0.1 node1: 5 node2: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.062690249034
+lr: 0.1 node1: 5 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0640042488121
+lr: 0.01 node1: 5 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0640828957039
+lr: 0.01 node1: 5 node2: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0641472388274
+lr: 0.1 node1: 6 node2: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0641931380212
+lr: 0.01 node1: 6 node2: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0642095961794
+lr: 0.01 node1: 5 node2: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0644812306522
+lr: 0.1 node1: 6 node2: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0645264284093
+lr: 0.01 node1: 6 node2: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0649343427306
+lr: 0.01 node1: 5 node2: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0652904945523
+lr: 0.1 node1: 6 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0653505969964
+lr: 0.01 node1: 5 node2: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0657283395418
+lr: 0.1 node1: 6 node2: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0658302171284
+lr: 0.1 node1: 6 node2: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0658546932897
+lr: 0.01 node1: 5 node2: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0662790739573
+lr: 0.1 node1: 6 node2: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.066445440613
+lr: 0.1 node1: 5 node2: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0665151806146
+lr: 0.01 node1: 6 node2: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.06695123688
+lr: 0.1 node1: 6 node2: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0674325433825
+lr: 0.01 node1: 5 node2: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.067592145688
+lr: 0.01 node1: 6 node2: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0677480437879
+lr: 0.1 node1: 6 node2: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0689159282604
+lr: 0.1 node1: 5 node2: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0704643612411
+lr: 0.1 node1: 5 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0722556080216
+lr: 0.01 node1: 5 node2: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0734780890867
+lr: 0.01 node1: 5 node2: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0737712049894
+lr: 0.01 node1: 6 node2: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0738492926444
+lr: 0.1 node1: 6 node2: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0741670787486
+lr: 0.01 node1: 5 node2: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.075733391053
+lr: 0.01 node1: 5 node2: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0758435354849
+lr: 0.01 node1: 5 node2: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0771135474204
+lr: 0.1 node1: 6 node2: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.077380555902
+lr: 0.1 node1: 5 node2: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0789181440972
+lr: 0.1 node1: 6 node2: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0791185981291
+lr: 0.1 node1: 6 node2: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0805394253146
+lr: 0.01 node1: 6 node2: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0806710425037
+lr: 0.01 node1: 5 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0807139618277
+lr: 0.1 node1: 5 node2: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0848552703399
+lr: 0.1 node1: 5 node2: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.0855916117052
+lr: 0.1 node1: 5 node2: 6 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.0890951769117
+lr: 0.01 node1: 6 node2: 7 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.0968175440823
+lr: 0.1 node1: 5 node2: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.100743085502
+lr: 0.01 node1: 6 node2: 7 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.101117828727
+lr: 0.01 node1: 6 node2: 8 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.103402184373
+lr: 0.01 node1: 5 node2: 5 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.10343320653
+lr: 0.1 node1: 5 node2: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.105115783053
+lr: 0.01 node1: 6 node2: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.105327995773
+lr: 0.1 node1: 5 node2: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.105602826564
+lr: 0.01 node1: 6 node2: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.107446290283
+lr: 0.1 node1: 5 node2: 4 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.109451519112
+lr: 0.01 node1: 6 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.109547451574
+lr: 0.1 node1: 5 node2: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.109562454079
+lr: 0.1 node1: 5 node2: 3 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.109615539481
+lr: 0.01 node1: 5 node2: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.109672034466
+lr: 0.01 node1: 6 node2: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.109758619832
+lr: 0.1 node1: 6 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.109763877821
+lr: 0.1 node1: 6 node2: 3 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.11010272345
+lr: 0.1 node1: 6 node2: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.110300189839
+lr: 0.1 node1: 6 node2: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.110406668563
+lr: 0.1 node1: 5 node2: 5 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.110694216552
+lr: 0.01 node1: 6 node2: 5 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.111036691554
+lr: 0.1 node1: 6 node2: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.111266114909
+lr: 0.01 node1: 6 node2: 8 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.11273266104
+lr: 0.01 node1: 6 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.114278757589
+lr: 0.1 node1: 5 node2: 6 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.115723674438
+lr: 0.01 node1: 5 node2: 7 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.115786474186
+lr: 0.01 node1: 6 node2: 4 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant with MSE: 0.116748842834
+lr: 0.1 node1: 6 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.122020138706
+lr: 0.01 node1: 5 node2: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.124662218087
+lr: 0.1 node1: 5 node2: 4 momentum: 0.9 alpha: 0.001 early_stopping: True learning_rate: constant with MSE: 0.128602040387
+lr: 0.01 node1: 5 node2: 3 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant with MSE: 0.133751305839
+
+Best network on validation set: lr: 0.01 node1: 6 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant
+lr: 0.01 node1: 6 node2: 8 momentum: 0.9 alpha: 0.0001 early_stopping: True learning_rate: constant on test set: 0.0677479107059
+
+Use best 1 hidden layer network
+lr: 0.1 node1: 6 momentum: 0.9 alpha: 1e-05 early_stopping: True learning_rate: constant on test set: 0.0713836816735
+
+
+
+
+
