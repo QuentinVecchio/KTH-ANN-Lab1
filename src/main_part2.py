@@ -29,7 +29,7 @@ def generateDataSet():
     inputs = [[X[t-20], X[t-15], X[t-10], X[t-5], X[t]] for t in T]
     outputs = [X[t+5] for t in T]
 
-    graph_part2.plotRecursiveFunction(T, X[301:1501], 800, 1000)
+    #graph_part2.plotRecursiveFunction(T, X[301:1501], 800, 1000)
 
     testSet = inputs[-200:]
     testValue = outputs[-200:]
@@ -53,9 +53,29 @@ def generateDataSet():
 if __name__ == '__main__':
     trainSet, trainValue, testSet, testValue, validationSet, validationValue = generateDataSet()
 
-    MLP = NN_part2.NN()
-    MLP.fit(trainSet,trainValue)
-    out = MLP.predict(testSet)
+    networks = []
+    MSE = []
 
-    MSE = np.mean((out - testValue)**2)
-    print(MSE)
+    #Add networks to the list
+    networks.append(NN_part2.NN("test"))
+
+    print("Compute all networks")
+    for net in networks:
+        print("Train new network")
+        net.fit(trainSet,trainValue)
+        net.predict(validationSet)
+        net.computeMSE(validationValue)
+        MSE.append(net.getMSE())
+
+    print("Computation over")
+    print("")
+    MSE, networks = (list(t) for t in zip(*sorted(zip(MSE, networks))))
+    print("MSE on the validation set:")
+    for net in networks:
+        print(net.getName() + " with MSE: " + str(net.getMSE()))
+
+    print("")
+    print("Best network on validation set: " + networks[0].getName())
+    networks[0].predict(testSet)
+    networks[0].computeMSE(testValue)
+    print(networks[0].getName() + " on test set: " + str(networks[0].getMSE()))
