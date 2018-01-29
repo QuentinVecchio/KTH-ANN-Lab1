@@ -16,8 +16,7 @@ class MultipleLayer():
 
 
     def phiPrime(self,x):
-        phix = self.phi(x)
-        return np.multiply((1.0 + phix),(1.0 - phix)) / 2.0
+        return np.multiply((1.0 + x),(1.0 - x)) / 2.0
 
     def posneg(self, WX):
         output = []
@@ -57,7 +56,7 @@ class MultipleLayer():
                 O = self.phi(Ostar)  # size: (hls, len(X)) * (len(X), n) =(1, n)
                 e = self.posneg(O) - Y.T[start:end].T
                 # print(np.mean(O - Y.T[start:end].T))
-                deltaO = np.multiply((O - Y.T[start:end].T),self.phiPrime(Ostar))
+                deltaO = np.multiply((O - Y.T[start:end].T),self.phiPrime(O))
                 deltaH = np.multiply(np.dot(self.V.T, deltaO),self.phiPrime(H))
                 deltaH = deltaH[:-1,:]# Remove Bias row
                 deltaW = - self.lr * np.dot(deltaH, batch.T)

@@ -117,7 +117,7 @@ def plotDecisionBoundaryAnim(title, X, T, WHistory):
         return tuple(lines)
 
     ani = animation.FuncAnimation(
-        fig, animate, init_func=init, frames=len(WHistory), blit=True)
+        fig, animate, init_func=init, frames=len(WHistory), blit=True, interval=25)
 
     plt.title(title)
     plt.show()
