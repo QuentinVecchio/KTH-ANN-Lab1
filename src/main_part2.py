@@ -1,6 +1,7 @@
 import NN_part2
 import numpy as np
 import random as rd
+import graph_part2
 
 beta = 0.2
 gamma = 0.1
@@ -24,6 +25,8 @@ def generateDataSet():
     X = computeX(1506)
     inputs = [[X[t-20], X[t-15], X[t-10], X[t-5], X[t]] for t in T]
     outputs = [X[t+5] for t in T]
+
+    graph_part2.plotRecursiveFunction(T, X[301:1501], 800, 1000)
 
     testSet = inputs[-200:]
     testValue = outputs[-200:]
