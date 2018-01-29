@@ -74,6 +74,7 @@ def plotDecisionBoundaryAnim(title, X, T, WHistory):
     fig, ax = plt.subplots()
 
     colors = ['red', 'blue']
+    colorsNeuron = ['green', 'blue']
     ax.scatter(X[:, 0], X[:, 1], c=[colors[i] for i in T])
 
     x = 1
@@ -83,36 +84,37 @@ def plotDecisionBoundaryAnim(title, X, T, WHistory):
 
     ymin, ymax = plt.ylim()
 
-    for W in WHistory[0]:
+    for index, W in enumerate(WHistory[0]):
+        print(index)
         w = [W.item(x), W.item(y)]
         a = -w[x] / w[y]
         xx = np.linspace(ymin, ymax)
         yy = a * xx - (W.item(bias)) / w[y]
-        line, = ax.plot(yy, xx, 'black')
+        line, = ax.plot(yy, xx)
         lines.append(line)
 
-    ttl = ax.text(0.05, 0.9, '', transform=ax.transAxes)
+    lines.append(ax.text(0.05, 0.9, '', transform=ax.transAxes))
 
     def animate(i):
-        ttl.set_text('Decision Boundary Iteration ' + str(i % len(WHistory)))
+        lines[-1].set_text('Decision Boundary Iteration ' + str(i % len(WHistory)))
         for index, W in enumerate(WHistory[i]):
             w = [W.item(x), W.item(y)]
             a = -w[x] / w[y]
             yy = a * xx - (W.item(bias)) / w[y]
             lines[index].set_xdata(yy)
 
-        return ttl, lines[0], lines[1],
+        return tuple(lines)
 
 
     def init():
-        ttl.set_text('Decision Boundary Iteration ' + str(0))
+        lines[-1].set_text('Decision Boundary Iteration ' + str(0))
         for index, W in enumerate(WHistory[0]):
             w = [W.item(x), W.item(y)]
             a = -w[x] / w[y]
             yy = a * xx - (W.item(bias)) / w[y]
             lines[index].set_xdata(yy)
 
-        return ttl, lines[0], lines[1],
+        return tuple(lines)
 
     ani = animation.FuncAnimation(
         fig, animate, init_func=init, frames=len(WHistory), blit=True)
