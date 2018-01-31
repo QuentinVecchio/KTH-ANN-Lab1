@@ -2,7 +2,7 @@ import numpy as np
 
 
 class SingleLayerNN():
-    def __init__(self, lr=0.001, nb_eboch=20, batch_size=20):
+    def __init__(self, lr=0.0001, nb_eboch=20, batch_size=20):
         self.batch_size = batch_size
         self.lr = lr
         self.nb_eboch = nb_eboch
@@ -39,6 +39,7 @@ class SingleLayerNN():
 
                 start, end = batchIndex
                 batch = X.T[start : end].T
+                print(batch.shape)
                 WX = np.dot(self.W, batch)# Prediction : (1, len(X) + 1) * (len(X) + 1, n) =(1, n)
                 aux = T.T[start:end].T - WX
                 e = T.T[start:end].T - self.TLU(WX)
@@ -59,7 +60,7 @@ class SingleLayerNN():
 
 
 class Perceptron():
-    def __init__(self, lr=0.001, nb_eboch=200, batch_size=20):
+    def __init__(self, lr=0.0001, nb_eboch=200, batch_size=20):
         self.batch_size = batch_size
         self.lr = lr
         self.nb_eboch = nb_eboch
